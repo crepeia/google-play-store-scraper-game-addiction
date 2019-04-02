@@ -1,0 +1,29 @@
+{
+  "name": "videogame-addiction-play-store",
+  "version": "1.0.0",
+  "description": "Scrape data from Google Play Store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crepeia/videogame-addiction-play-store.git"
+  },
+  "keywords": [
+    "videogame",
+    "addictionk",
+    "playstore",
+    "mobile",
+    "gaming"
+  ],
+  "author": "henrique p gomide",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/crepeia/videogame-addiction-play-store/issues"
+  },
+  "homepage": "https://github.com/crepeia/videogame-addiction-play-store#readme",
+  "dependencies": {
+    "google-play-scraper": "^6.2.3"
+  }
+}
