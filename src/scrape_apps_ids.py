@@ -1,8 +1,15 @@
+import time
+from pathlib import Path
+
+import numpy as np
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
+from google_play_scraper import Sort, reviews
 
-from utils import store_apps_from_category
+from utils import (create_list_of_app_ids,
+                   fetch_most_relevants_comments_all_apks,
+                   store_apps_from_category)
 
 CATEGORIES = {
     "GAME_ACTION": "GAME_ACTION",
@@ -25,3 +32,21 @@ CATEGORIES = {
 # Run once
 #for category in CATEGORIES:
 #    store_apps_from_category(category)
+
+data = create_list_of_app_ids()
+data = data[data['rank'] < 11]
+data = data['app_id']
+
+# NEWEST
+#comments = reviews(
+#    'com.nianticlabs.pokemongo',
+#    lang='pt-BR', 
+#    country='br', 
+#    sort=Sort.NEWEST, 
+#    count=50, 
+#) 
+
+# Create folder for each app_id
+# Run once 
+# MOST_RELEVANT
+#fetch_most_relevants_comments_all_apks()

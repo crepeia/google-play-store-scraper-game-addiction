@@ -1,61 +1,61 @@
-,rank,title,icon,↓Total ratings,Installs,Average rating,Growth (30 days),Growth (60 days),Price,app_id
+,rank,title,icon,↓Total ratings,Installs,Average rating,Growth (30 days),Growth (60 days),Price,app_id,category
 0,1.0,"
 Word Cookies!®
-",,"2,207,894",10.0 M,4.63,0.2%,0.3%,Free,com.bitmango.go.wordcookies
+",,"2,207,894",10.0 M,4.63,0.2%,0.3%,Free,com.bitmango.go.wordcookies,GAME_WORD
 1,2.0,"
 Words With Friends Classic
-",,"1,716,945",50.0 M,4.23,0.0%,0.0%,Free,com.zynga.words
+",,"1,716,945",50.0 M,4.23,0.0%,0.0%,Free,com.zynga.words,GAME_WORD
 2,3.0,"
 كلمات كراش - لعبة تسلية وتحدي من زيتونة
-",,"1,576,238",10.0 M,4.71,4.6%,8.8%,Free,com.zytoona.wordscrush
+",,"1,576,238",10.0 M,4.71,4.6%,8.8%,Free,com.zytoona.wordscrush,GAME_WORD
 3,4.0,"
 Words of Wonders: Crossword to Connect Vocabulary
-",,"1,238,980",50.0 M,4.59,7.9%,15.6%,Free,com.fugo.wow
+",,"1,238,980",50.0 M,4.59,7.9%,15.6%,Free,com.fugo.wow,GAME_WORD
 4,5.0,"
 4 Fotos 1 Palabra
-",,"1,157,727",10.0 M,4.54,0.3%,0.6%,Free,de.lotum.whatsinthefoto.es
+",,"1,157,727",10.0 M,4.54,0.3%,0.6%,Free,de.lotum.whatsinthefoto.es,GAME_WORD
 5,6.0,"
 4 Pics 1 Word
-",,"1,140,869",50.0 M,4.55,0.2%,0.4%,Free,de.lotum.whatsinthefoto.us
+",,"1,140,869",50.0 M,4.55,0.2%,0.4%,Free,de.lotum.whatsinthefoto.us,GAME_WORD
 6,7.0,"
 Draw Something Classic
-",,"1,113,358",50.0 M,4.21,0.1%,0.1%,Free,com.omgpop.dstfree
+",,"1,113,358",50.0 M,4.21,0.1%,0.1%,Free,com.omgpop.dstfree,GAME_WORD
 7,8.0,"
 WordBrain
-",,"954,732",10.0 M,4.45,0.1%,0.1%,Free,se.maginteractive.wordbrain
+",,"954,732",10.0 M,4.45,0.1%,0.1%,Free,se.maginteractive.wordbrain,GAME_WORD
 8,9.0,"
 Wordscapes
-",,"746,481",10.0 M,4.74,2.4%,5.2%,Free,com.peoplefun.wordcross
+",,"746,481",10.0 M,4.74,2.4%,5.2%,Free,com.peoplefun.wordcross,GAME_WORD
 9,10.0,"
 CodyCross: Crossword Puzzles
-",,"738,265",50.0 M,4.51,5.2%,10.2%,Free,com.fanatee.cody
+",,"738,265",50.0 M,4.51,5.2%,10.2%,Free,com.fanatee.cody,GAME_WORD
 10,11.0,"
 Words With Friends – Word Puzzle
-",,"729,511",10.0 M,4.21,0.1%,0.1%,Free,com.zynga.wwf2.free
+",,"729,511",10.0 M,4.21,0.1%,0.1%,Free,com.zynga.wwf2.free,GAME_WORD
 11,12.0,"
 كلمات متقاطعة
-",,"724,531",10.0 M,4.63,0.6%,1.2%,Free,com.andron.crosswords2
+",,"724,531",10.0 M,4.63,0.6%,1.2%,Free,com.andron.crosswords2,GAME_WORD
 12,13.0,"
 Word Connect
-",,"709,046",10.0 M,4.62,2.0%,3.4%,Free,com.wordgame.words.connect
+",,"709,046",10.0 M,4.62,2.0%,3.4%,Free,com.wordgame.words.connect,GAME_WORD
 13,14.0,"
 وصلة - لعبة كلمات متقاطعة
-",,"690,242",5.0 M,4.64,0.8%,1.6%,Free,zozo.android.crosswords
+",,"690,242",5.0 M,4.64,0.8%,1.6%,Free,zozo.android.crosswords,GAME_WORD
 14,15.0,"
 لعبة كلمة السر : الجزء الثاني
-",,"657,408",10.0 M,4.67,2.1%,4.1%,Free,com.zytoona.lostword2
+",,"657,408",10.0 M,4.67,2.1%,4.1%,Free,com.zytoona.lostword2,GAME_WORD
 15,16.0,"
 Word search
-",,"642,301",50.0 M,4.47,0.0%,0.1%,Free,com.quelaba.sopaletras
+",,"642,301",50.0 M,4.47,0.0%,0.1%,Free,com.quelaba.sopaletras,GAME_WORD
 16,17.0,"
 Word Snack - Your Picnic with Words
-",,"641,600",5.0 M,4.65,0.7%,1.3%,Free,com.apnax.wordsnack
+",,"641,600",5.0 M,4.65,0.7%,1.3%,Free,com.apnax.wordsnack,GAME_WORD
 17,18.0,"
 Wordfeud Free
-",,"598,353",10.0 M,4.47,0.3%,0.5%,Free,com.hbwares.wordfeud.free
+",,"598,353",10.0 M,4.47,0.3%,0.5%,Free,com.hbwares.wordfeud.free,GAME_WORD
 18,19.0,"
 Word Search
-",,"591,580",10.0 M,4.58,0.4%,0.9%,Free,com.wordloco.wordchallenge
+",,"591,580",10.0 M,4.58,0.4%,0.9%,Free,com.wordloco.wordchallenge,GAME_WORD
 19,20.0,"
 Word Search
-",,"510,296",10.0 M,4.73,0.1%,0.2%,Free,ws.letras
+",,"510,296",10.0 M,4.73,0.1%,0.2%,Free,ws.letras,GAME_WORD

@@ -1,61 +1,61 @@
-,rank,title,icon,↓Total ratings,Installs,Average rating,Growth (30 days),Growth (60 days),Price,app_id
+,rank,title,icon,↓Total ratings,Installs,Average rating,Growth (30 days),Growth (60 days),Price,app_id,category
 0,1.0,"
 Candy Crush Saga
-",,"27,421,091",500.0 M,4.63,1.3%,2.4%,Free,com.king.candycrushsaga
+",,"27,421,091",500.0 M,4.63,1.3%,2.4%,Free,com.king.candycrushsaga,GAME_CASUAL
 1,2.0,"
 My Talking Tom
-",,"16,010,798",500.0 M,4.5,0.3%,0.6%,Free,com.outfit7.mytalkingtomfree
+",,"16,010,798",500.0 M,4.5,0.3%,0.6%,Free,com.outfit7.mytalkingtomfree,GAME_CASUAL
 2,3.0,"
 My Talking Angela
-",,"11,549,749",500.0 M,4.29,0.6%,1.4%,Free,com.outfit7.mytalkingangelafree
+",,"11,549,749",500.0 M,4.29,0.6%,1.4%,Free,com.outfit7.mytalkingangelafree,GAME_CASUAL
 3,4.0,"
 Hay Day
-",,"11,186,462",100.0 M,4.5,0.3%,1.1%,Free,com.supercell.hayday
+",,"11,186,462",100.0 M,4.5,0.3%,1.1%,Free,com.supercell.hayday,GAME_CASUAL
 4,5.0,"
 Pou
-",,"11,018,466",500.0 M,4.38,0.3%,0.7%,Free,me.pou.app
+",,"11,018,466",500.0 M,4.38,0.3%,0.7%,Free,me.pou.app,GAME_CASUAL
 5,6.0,"
 Minion Rush: Despicable Me Official Game
-",,"10,532,228",100.0 M,4.47,0.1%,0.2%,Free,com.gameloft.android.ANMP.GloftDMHM
+",,"10,532,228",100.0 M,4.47,0.1%,0.2%,Free,com.gameloft.android.ANMP.GloftDMHM,GAME_CASUAL
 6,7.0,"
 Farm Heroes Saga
-",,"8,468,964",100.0 M,4.61,0.5%,1.0%,Free,com.king.farmheroessaga
+",,"8,468,964",100.0 M,4.61,0.5%,1.0%,Free,com.king.farmheroessaga,GAME_CASUAL
 7,8.0,"
 Gardenscapes
-",,"7,414,300",100.0 M,4.26,4.4%,7.6%,Free,com.playrix.gardenscapes
+",,"7,414,300",100.0 M,4.26,4.4%,7.6%,Free,com.playrix.gardenscapes,GAME_CASUAL
 8,9.0,"
 Homescapes
-",,"7,384,607",100.0 M,4.34,3.3%,6.7%,Free,com.playrix.homescapes
+",,"7,384,607",100.0 M,4.34,3.3%,6.7%,Free,com.playrix.homescapes,GAME_CASUAL
 9,10.0,"
 Candy Crush Soda Saga
-",,"7,257,153",100.0 M,4.59,1.1%,2.1%,Free,com.king.candycrushsodasaga
+",,"7,257,153",100.0 M,4.59,1.1%,2.1%,Free,com.king.candycrushsodasaga,GAME_CASUAL
 10,11.0,"
 Township
-",,"6,789,329",100.0 M,4.45,1.8%,4.1%,Free,com.playrix.township
+",,"6,789,329",100.0 M,4.45,1.8%,4.1%,Free,com.playrix.township,GAME_CASUAL
 11,12.0,"
 Plants vs Zombies™ 2 Free
-",,"6,352,938",100.0 M,4.43,0.5%,0.9%,Free,com.ea.game.pvz2_row
+",,"6,352,938",100.0 M,4.43,0.5%,0.9%,Free,com.ea.game.pvz2_row,GAME_CASUAL
 12,13.0,"
 Angry Birds 2
-",,"4,970,631",100.0 M,4.58,1.2%,2.7%,Free,com.rovio.baba
+",,"4,970,631",100.0 M,4.58,1.2%,2.7%,Free,com.rovio.baba,GAME_CASUAL
 13,14.0,"
 The Simpsons™:  Tapped Out
-",,"3,993,390",100.0 M,4.26,0.2%,0.3%,Free,com.ea.game.simpsons4_row
+",,"3,993,390",100.0 M,4.26,0.2%,0.3%,Free,com.ea.game.simpsons4_row,GAME_CASUAL
 14,15.0,"
 LINE Let's Get Rich
-",,"3,940,832",50.0 M,4.11,0.1%,0.2%,Free,com.linecorp.LGGRTHN
+",,"3,940,832",50.0 M,4.11,0.1%,0.2%,Free,com.linecorp.LGGRTHN,GAME_CASUAL
 15,16.0,"
 My Cafe — Restaurant game
-",,"3,561,838",50.0 M,4.64,1.6%,3.2%,Free,com.melesta.coffeeshop
+",,"3,561,838",50.0 M,4.64,1.6%,3.2%,Free,com.melesta.coffeeshop,GAME_CASUAL
 16,17.0,"
 Pet Rescue Saga
-",,"3,380,675",100.0 M,4.64,0.3%,0.6%,Free,com.king.petrescuesaga
+",,"3,380,675",100.0 M,4.64,0.3%,0.6%,Free,com.king.petrescuesaga,GAME_CASUAL
 17,18.0,"
 Bubble Witch 2 Saga
-",,"2,913,496",100.0 M,4.57,0.1%,0.2%,Free,com.midasplayer.apps.bubblewitchsaga2
+",,"2,913,496",100.0 M,4.57,0.1%,0.2%,Free,com.midasplayer.apps.bubblewitchsaga2,GAME_CASUAL
 18,19.0,"
 FarmVille 2: Country Escape
-",,"2,728,504",50.0 M,4.44,0.5%,0.9%,Free,com.zynga.FarmVille2CountryEscape
+",,"2,728,504",50.0 M,4.44,0.5%,0.9%,Free,com.zynga.FarmVille2CountryEscape,GAME_CASUAL
 19,20.0,"
 Coin Master
-",,"2,229,224",50.0 M,4.36,4.7%,9.1%,Free,com.moonactive.coinmaster
+",,"2,229,224",50.0 M,4.36,4.7%,9.1%,Free,com.moonactive.coinmaster,GAME_CASUAL

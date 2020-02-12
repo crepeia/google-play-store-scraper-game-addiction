@@ -1,61 +1,61 @@
-,rank,title,icon,↓Total ratings,Installs,Average rating,Growth (30 days),Growth (60 days),Price,app_id
+,rank,title,icon,↓Total ratings,Installs,Average rating,Growth (30 days),Growth (60 days),Price,app_id,category
 0,1.0,"
 Fishdom
-",,"3,438,855",50.0 M,4.19,2.0%,4.1%,Free,com.playrix.fishdomdd.gplay
+",,"3,438,855",50.0 M,4.19,2.0%,4.1%,Free,com.playrix.fishdomdd.gplay,GAME_PUZZLE
 1,2.0,"
 Toon Blast
-",,"2,629,465",50.0 M,4.67,1.8%,3.6%,Free,net.peakgames.toonblast
+",,"2,629,465",50.0 M,4.67,1.8%,3.6%,Free,net.peakgames.toonblast,GAME_PUZZLE
 2,3.0,"
 Toy Blast
-",,"2,575,688",50.0 M,4.65,1.2%,2.4%,Free,net.peakgames.amy
+",,"2,575,688",50.0 M,4.65,1.2%,2.4%,Free,net.peakgames.amy,GAME_PUZZLE
 3,4.0,"
 Paperama
-",,"2,506,144",10.0 M,4.6,0.0%,0.0%,Free,com.fdgentertainment.paperama
+",,"2,506,144",10.0 M,4.6,0.0%,0.0%,Free,com.fdgentertainment.paperama,GAME_PUZZLE
 4,5.0,"
 Cut the Rope FULL FREE
-",,"2,420,065",100.0 M,4.6,0.4%,0.9%,Free,com.zeptolab.ctr.ads
+",,"2,420,065",100.0 M,4.6,0.4%,0.9%,Free,com.zeptolab.ctr.ads,GAME_PUZZLE
 5,6.0,"
 Bubble Witch 3 Saga
-",,"2,265,414",50.0 M,4.66,0.9%,1.8%,Free,com.king.bubblewitch3
+",,"2,265,414",50.0 M,4.66,0.9%,1.8%,Free,com.king.bubblewitch3,GAME_PUZZLE
 6,7.0,"
 Cut the Rope 2
-",,"2,259,712",100.0 M,4.63,0.1%,0.2%,Free,com.zeptolab.ctr2.f2p.google
+",,"2,259,712",100.0 M,4.63,0.1%,0.2%,Free,com.zeptolab.ctr2.f2p.google,GAME_PUZZLE
 7,8.0,"
 Where's My Water? 2
-",,"2,053,533",100.0 M,4.38,0.2%,0.4%,Free,com.disney.wheresmywater2_goo
+",,"2,053,533",100.0 M,4.38,0.2%,0.4%,Free,com.disney.wheresmywater2_goo,GAME_PUZZLE
 8,9.0,"
 Empires & Puzzles: Epic Match 3
-",,"1,677,598",10.0 M,4.5,2.6%,4.9%,Free,com.smallgiantgames.empires
+",,"1,677,598",10.0 M,4.5,2.6%,4.9%,Free,com.smallgiantgames.empires,GAME_PUZZLE
 9,10.0,"
 Disney Frozen Free Fall - Play Frozen Puzzle Games
-",,"1,669,436",50.0 M,4.55,0.3%,0.6%,Free,com.disney.frozensaga_goo
+",,"1,669,436",50.0 M,4.55,0.3%,0.6%,Free,com.disney.frozensaga_goo,GAME_PUZZLE
 10,11.0,"
 Pixel Art: Color by Number
-",,"1,603,770",50.0 M,4.51,1.2%,2.6%,Free,com.europosit.pixelcoloring
+",,"1,603,770",50.0 M,4.51,1.2%,2.6%,Free,com.europosit.pixelcoloring,GAME_PUZZLE
 11,12.0,"
 Roll the Ball® - slide puzzle
-",,"1,531,668",100.0 M,4.31,0.2%,0.4%,Free,com.bitmango.rolltheballunrollme
+",,"1,531,668",100.0 M,4.31,0.2%,0.4%,Free,com.bitmango.rolltheballunrollme,GAME_PUZZLE
 12,13.0,"
 Candy Crush Jelly Saga
-",,"1,482,912",100.0 M,4.54,0.8%,1.6%,Free,com.king.candycrushjellysaga
+",,"1,482,912",100.0 M,4.54,0.8%,1.6%,Free,com.king.candycrushjellysaga,GAME_PUZZLE
 13,14.0,"
 Flow Free
-",,"1,368,024",100.0 M,4.49,0.3%,0.6%,Free,com.bigduckgames.flow
+",,"1,368,024",100.0 M,4.49,0.3%,0.6%,Free,com.bigduckgames.flow,GAME_PUZZLE
 14,15.0,"
 2048 Number puzzle game
-",,"1,365,463",10.0 M,4.31,0.0%,0.1%,Free,com.estoty.game2048
+",,"1,365,463",10.0 M,4.31,0.0%,0.1%,Free,com.estoty.game2048,GAME_PUZZLE
 15,16.0,"
 Matchington Mansion
-",,"1,356,578",50.0 M,4.43,3.0%,5.9%,Free,com.matchington.mansion
+",,"1,356,578",50.0 M,4.43,3.0%,5.9%,Free,com.matchington.mansion,GAME_PUZZLE
 16,17.0,"
 ضربة معلم - لعبة الغاز مسلية
-",,"1,283,351",5.0 M,4.61,2.8%,5.4%,Free,com.zytoona.onehit
+",,"1,283,351",5.0 M,4.61,2.8%,5.4%,Free,com.zytoona.onehit,GAME_PUZZLE
 17,18.0,"
 Sudoku.com - Free Sudoku Puzzles
-",,"1,283,185",10.0 M,4.58,2.9%,5.5%,Free,com.easybrain.sudoku.android
+",,"1,283,185",10.0 M,4.58,2.9%,5.5%,Free,com.easybrain.sudoku.android,GAME_PUZZLE
 18,19.0,"
 Escape Titanic
-",,"1,259,277",10.0 M,4.52,0.1%,0.2%,Free,com.freshgames.escapethetitanic
+",,"1,259,277",10.0 M,4.52,0.1%,0.2%,Free,com.freshgames.escapethetitanic,GAME_PUZZLE
 19,20.0,"
 Bad Piggies
-",,"1,201,705",50.0 M,4.49,0.3%,0.4%,Free,com.rovio.BadPiggies
+",,"1,201,705",50.0 M,4.49,0.3%,0.4%,Free,com.rovio.BadPiggies,GAME_PUZZLE

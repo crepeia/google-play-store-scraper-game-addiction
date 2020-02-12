@@ -1,8 +1,12 @@
-import play_scraper
-import pandas as pd
-from bs4 import BeautifulSoup
-import requests
+import glob
 import logging
+
+import numpy as np
+import pandas as pd
+import play_scraper
+import requests
+from bs4 import BeautifulSoup
+from google_play_scraper import Sort, reviews
 
 logging.basicConfig(
         filename='var/log.log',
@@ -71,7 +75,7 @@ class HTMLTableParser:
 
 def store_apps_from_category(category):
     try:
-            URL = r'https://www.androidrank.org/android-most-popular-google-play-apps?category={0}&sort=48price=all'.format(category)
+        URL = r'https://www.androidrank.org/android-most-popular-google-play-apps?category={0}&sort=48price=all'.format(category)
         hp = HTMLTableParser()
         data = hp.parse_url(URL)[0][1]
         website_url = requests.get(URL).text
@@ -88,9 +92,43 @@ def store_apps_from_category(category):
             app_urls.append(extracted)
 
         data['app_id'] = app_urls
+        data['category'] = category
 
         logging.warning('Data for {} was stored'.format(category))
         return data.to_csv('var/data/{0}.csv'.format(category))
 
     except:
        logging.warning('Something went wrong when saving data.') 
+
+def create_list_of_app_ids():
+    path = r'var/data'
+    files = glob.glob(path + '/*.csv')
+    files_list = []
+
+    for filename in files:
+        df = pd.read_csv(filename, index_col=None, header = 0)
+        files_list.append(df)
+
+    data = pd.concat(files_list, axis=0, ignore_index=True)
+    return data
+
+def fetch_most_relevant_comments(app_id):
+    try:
+        comments = reviews(
+            app_id,
+            lang='pt-BR', 
+            country='br', 
+            sort=Sort.MOST_RELEVANT
+        ) 
+        if len(comments) > 0:
+            df = pd.DataFrame.from_dict(comments)
+            return df.to_csv(r'var/data/{0}/MOST_RELEVANT.csv'.format(app_id))
+        else:
+            print('not found')
+    except:
+        pass
+
+def fetch_most_relevants_comments_all_apks():
+    for app_id in data:
+        fetch_most_relevant_comments(app_id)
+        time.sleep(1.2 + np.random.normal(0,0.2,1))

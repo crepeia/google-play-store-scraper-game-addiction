@@ -1,61 +1,61 @@
-,rank,title,icon,↓Total ratings,Installs,Average rating,Growth (30 days),Growth (60 days),Price,app_id
+,rank,title,icon,↓Total ratings,Installs,Average rating,Growth (30 days),Growth (60 days),Price,app_id,category
 0,1.0,"
 Pokémon GO
-",,"12,827,510",100.0 M,4.22,0.8%,1.9%,Free,com.nianticlabs.pokemongo
+",,"12,827,510",100.0 M,4.22,0.8%,1.9%,Free,com.nianticlabs.pokemongo,GAME_ADVENTURE
 1,2.0,"
 Roblox
-",,"11,455,141",100.0 M,4.45,3.3%,7.6%,Free,com.roblox.client
+",,"11,455,141",100.0 M,4.45,3.3%,7.6%,Free,com.roblox.client,GAME_ADVENTURE
 2,3.0,"
 Criminal Case
-",,"4,110,583",100.0 M,4.62,0.3%,0.6%,Free,com.prettysimple.criminalcaseandroid
+",,"4,110,583",100.0 M,4.62,0.3%,0.6%,Free,com.prettysimple.criminalcaseandroid,GAME_ADVENTURE
 3,4.0,"
 쿠키런 for Kakao
-",,"2,556,800",10.0 M,4.26,0.0%,0.2%,Free,com.devsisters.CookieRunForKakao
+",,"2,556,800",10.0 M,4.26,0.0%,0.2%,Free,com.devsisters.CookieRunForKakao,GAME_ADVENTURE
 4,5.0,"
 Kiloblocks Lite
-",,"2,081,059",100.0 M,3.87,0.0%,0.1%,Free,com.explorationbase.ExplorationLite
+",,"2,081,059",100.0 M,3.87,0.0%,0.1%,Free,com.explorationbase.ExplorationLite,GAME_ADVENTURE
 5,6.0,"
 Harry Potter: Hogwarts Mystery
-",,"1,668,214",10.0 M,4.2,1.2%,2.5%,Free,com.tinyco.potter
+",,"1,668,214",10.0 M,4.2,1.2%,2.5%,Free,com.tinyco.potter,GAME_ADVENTURE
 6,7.0,"
 BADLAND
-",,"1,554,485",10.0 M,4.57,0.1%,0.3%,Free,com.frogmind.badland
+",,"1,554,485",10.0 M,4.57,0.1%,0.3%,Free,com.frogmind.badland,GAME_ADVENTURE
 7,8.0,"
 Ice Age Adventures
-",,"1,414,944",50.0 M,4.37,0.1%,0.2%,Free,com.gameloft.android.ANMP.GloftIVHM
+",,"1,414,944",50.0 M,4.37,0.1%,0.2%,Free,com.gameloft.android.ANMP.GloftIVHM,GAME_ADVENTURE
 8,9.0,"
 Clumsy Ninja
-",,"1,249,019",10.0 M,4.46,0.1%,0.3%,Free,com.naturalmotion.clumsyninja
+",,"1,249,019",10.0 M,4.46,0.1%,0.3%,Free,com.naturalmotion.clumsyninja,GAME_ADVENTURE
 9,10.0,"
 The Walking Dead: Season One
-",,"1,243,134",10.0 M,4.54,0.2%,0.3%,Free,com.telltalegames.walkingdead100
+",,"1,243,134",10.0 M,4.54,0.2%,0.3%,Free,com.telltalegames.walkingdead100,GAME_ADVENTURE
 10,11.0,"
 Mini World: Block Art
-",,"1,162,933",10.0 M,4.27,2.9%,6.9%,Free,com.playmini.miniworld
+",,"1,162,933",10.0 M,4.27,2.9%,6.9%,Free,com.playmini.miniworld,GAME_ADVENTURE
 11,12.0,"
 Benji Bananas
-",,"1,138,624",50.0 M,4.5,0.1%,0.2%,Free,com.fingersoft.benjibananas
+",,"1,138,624",50.0 M,4.5,0.1%,0.2%,Free,com.fingersoft.benjibananas,GAME_ADVENTURE
 12,13.0,"
 KIM KARDASHIAN: HOLLYWOOD
-",,"1,069,090",10.0 M,4.37,0.2%,0.4%,Free,com.glu.stardomkim
+",,"1,069,090",10.0 M,4.37,0.2%,0.4%,Free,com.glu.stardomkim,GAME_ADVENTURE
 13,14.0,"
 Hidden City: Hidden Object Adventure
-",,"1,005,105",10.0 M,4.33,0.8%,1.6%,Free,com.g5e.hiddencity.android
+",,"1,005,105",10.0 M,4.33,0.8%,1.6%,Free,com.g5e.hiddencity.android,GAME_ADVENTURE
 14,15.0,"
 Family Guy The Quest for Stuff
-",,"1,004,348",10.0 M,3.94,0.0%,0.1%,Free,com.tinyco.familyguy
+",,"1,004,348",10.0 M,3.94,0.0%,0.1%,Free,com.tinyco.familyguy,GAME_ADVENTURE
 15,16.0,"
 Growtopia
-",,"919,083",10.0 M,3.59,0.7%,1.4%,Free,com.rtsoft.growtopia
+",,"919,083",10.0 M,3.59,0.7%,1.4%,Free,com.rtsoft.growtopia,GAME_ADVENTURE
 16,17.0,"
 The Secret Society - Hidden Objects Mystery
-",,"879,611",5.0 M,4.35,0.1%,0.3%,Free,com.g5e.secretsociety
+",,"879,611",5.0 M,4.35,0.1%,0.3%,Free,com.g5e.secretsociety,GAME_ADVENTURE
 17,18.0,"
 Tiny Miner
-",,"749,803",5.0 M,4.63,0.1%,0.2%,Free,com.qube.tinyminer
+",,"749,803",5.0 M,4.63,0.1%,0.2%,Free,com.qube.tinyminer,GAME_ADVENTURE
 18,19.0,"
 Rayman Adventures
-",,"677,913",10.0 M,4.6,0.7%,1.3%,Free,com.ubisoft.raymanadventures
+",,"677,913",10.0 M,4.6,0.7%,1.3%,Free,com.ubisoft.raymanadventures,GAME_ADVENTURE
 19,20.0,"
 Swordigo
-",,"658,606",10.0 M,4.6,0.6%,1.1%,Free,com.touchfoo.swordigo
+",,"658,606",10.0 M,4.6,0.6%,1.1%,Free,com.touchfoo.swordigo,GAME_ADVENTURE
