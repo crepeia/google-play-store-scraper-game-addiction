@@ -1,8 +1,16 @@
 env/
-var/data
+*.py[cod]
+*$py.class
+var/data/**/*
 __pycache__/
 # Logs
 logs
 *.log
 *.csv
 
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
