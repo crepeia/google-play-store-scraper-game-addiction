@@ -8,8 +8,11 @@ from bs4 import BeautifulSoup
 from google_play_scraper import Sort, reviews
 
 from utils import (create_list_of_app_ids,
-                   fetch_most_relevants_comments_all_apks,
-                   store_apps_from_category)
+	fetch_most_relevants_comments_all_apks,
+	read_files_in_folder, 
+	store_apps_from_category,
+        fetch_and_store_comments,
+        fetch_and_store_comments_all_apks)
 
 CATEGORIES = {
     "GAME_ACTION": "GAME_ACTION",
@@ -32,21 +35,15 @@ CATEGORIES = {
 # Run once
 #for category in CATEGORIES:
 #    store_apps_from_category(category)
-
 data = create_list_of_app_ids()
 data = data[data['rank'] < 11]
-data = data['app_id']
-
-# NEWEST
-#comments = reviews(
-#    'com.nianticlabs.pokemongo',
-#    lang='pt-BR', 
-#    country='br', 
-#    sort=Sort.NEWEST, 
-#    count=50, 
-#) 
+app_id_list = data['app_id']
 
 # Create folder for each app_id
 # Run once 
 # MOST_RELEVANT
-#fetch_most_relevants_comments_all_apks()
+#fetch_most_relevants_comments_all_apks(app_id_list)
+
+# Store and update data from newest reviews
+# NEWEST
+fetch_and_store_comments_all_apks(app_id_list)

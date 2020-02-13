@@ -1,5 +1,6 @@
 import glob
 import logging
+import time
 
 import numpy as np
 import pandas as pd
@@ -13,7 +14,6 @@ logging.basicConfig(
         format='%(asctime)s.%(msecs)03d %(levelname)s %(module)s - %(funcName)s: %(message)s',
         datefmt='%Y-%m-%d %H:%M:%S',
         level=logging.INFO)
-
 
 class HTMLTableParser:
        
@@ -72,7 +72,6 @@ class HTMLTableParser:
             
             return df
 
-
 def store_apps_from_category(category):
     try:
         URL = r'https://www.androidrank.org/android-most-popular-google-play-apps?category={0}&sort=48price=all'.format(category)
@@ -128,7 +127,66 @@ def fetch_most_relevant_comments(app_id):
     except:
         pass
 
-def fetch_most_relevants_comments_all_apks():
-    for app_id in data:
+
+def fetch_most_relevants_comments_all_apks(app_id_list):
+    for app_id in app_id_list:
         fetch_most_relevant_comments(app_id)
         time.sleep(1.2 + np.random.normal(0,0.2,1))
+
+
+def read_files_in_folder(app_id):
+    path = r'var/data/{0}'.format(app_id)
+    files = glob.glob(path + '/*.csv')
+    if len(files) > 1:
+        files_list = []
+        for filename in files:
+            df = pd.read_csv(filename, index_col=None, header=0)
+            files_list.append(df)
+        data = pd.concat(files_list, axis=0, ignore_index=0)
+        return data
+    elif len(files) == 0:
+        data = pd.read_csv(files[0])
+        return data
+    else:
+        return None 
+
+def fetch_and_store_comments(app_id):
+    try:
+        comments = reviews(
+                app_id,	
+                lang='pt-BR', 
+                country='br', 
+                sort=Sort.NEWEST, 
+                count=100, 
+                )
+
+        # Read dataframes and compare them
+        df_comments = pd.DataFrame.from_dict(comments)
+        try:
+            df_folder = read_files_in_folder(app_id)
+            df_comparison = pd.concat([df_comments, df_folder])
+            df_comparison['at'] = pd.to_datetime(df_comparison['at'])
+            since_comments = df_comments['at'].min()
+            #since_comparison = df_comparison['at'].min()
+            until_comparison = df_comparison['at'].max()
+            df_comparison = df_comparison.drop_duplicates(['at', 'userName', 'content'])
+            df = df_comparison[(df_comparison['at'] > since_comments) & (df_comparison['at'] < until_comparison)]
+            # Store data
+            df.to_csv(r'var/data/{0}/{1}_{2}.csv'.format(app_id, since_comments.strftime('%Y-%m-%d'), until_comparison.strftime('%Y-%m-%d')))
+        except:
+            df_comments['at'] = pd.to_datetime(df_comments['at'])
+            since_comments = df_comments['at'].min()
+            until_comments = df_comments['at'].max()
+            df = df_comments[(df_comments['at'] > since_comments) & (df_comparison['at'] < until_comments)]
+            df.to_csv(r'var/data/{0}/{1}_{2}.csv'.format(app_id, since_comments.strftime('%Y-%m-%d'), until_comparison.strftime('%Y-%m-%d')))
+    except:
+        pass
+
+def fetch_and_store_comments_all_apks(app_id_list):
+        for app_id in app_id_list:
+            try:
+                fetch_and_store_comments(app_id)
+                time.sleep(1.2 + np.random.normal(0,0.2,1))
+                logging.info(r'Data for app {0} were stored successfully'.format(app_id))
+            except:
+                logging.warning(r'Could not store data for app {}. Action needed: Inspect.'.format(app_id))
