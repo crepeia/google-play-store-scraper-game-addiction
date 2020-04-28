@@ -1,6 +1,8 @@
 import glob
 import logging
 import time
+import random
+import os
 
 import numpy as np
 import pandas as pd
@@ -121,11 +123,15 @@ def fetch_most_relevant_comments(app_id):
         ) 
         if len(comments) > 0:
             df = pd.DataFrame.from_dict(comments)
-            return df.to_csv(r'var/data/{0}/MOST_RELEVANT.csv'.format(app_id))
+            out_folder = 'var/data/{0}'.format(app_id)
+            if not os.path.exists(out_folder):
+                os.mkdir(out_folder)
+            df.to_csv(r'var/data/{0}/MOST_RELEVANT.csv'.format(app_id))
+            print('Most relevant comments for app: {0} stored.'.format(app_id))
         else:
             print('not found')
     except:
-        pass
+        logging.warning('Something went when saving data for app: {0}.'.format(app_id)) 
 
 
 def fetch_most_relevants_comments_all_apks(app_id_list):
@@ -177,10 +183,14 @@ def fetch_and_store_comments(app_id):
             df_comments['at'] = pd.to_datetime(df_comments['at'])
             since_comments = df_comments['at'].min()
             until_comments = df_comments['at'].max()
-            df = df_comments[(df_comments['at'] > since_comments) & (df_comparison['at'] < until_comments)]
-            df.to_csv(r'var/data/{0}/{1}_{2}.csv'.format(app_id, since_comments.strftime('%Y-%m-%d'), until_comparison.strftime('%Y-%m-%d')))
+            out_folder = 'var/data/{0}'.format(app_id)
+            if not os.path.exists(out_folder):
+                os.mkdir(out_folder)
+            full_path = os.path.join(out_folder, '{0}_{1}.csv'.format(since_comments.strftime('%Y-%m-%d'), until_comments.strftime('%Y-%m-%d')))
+            df_comments.to_csv(full_path)
     except:
-        pass
+        print('ERROR saving data from app id: {0}'.format(app_id))
+
 
 def fetch_and_store_comments_all_apks(app_id_list):
         for app_id in app_id_list:

@@ -1,61 +1,61 @@
 ,rank,title,icon,↓Total ratings,Installs,Average rating,Growth (30 days),Growth (60 days),Price,app_id,category
 0,1.0,"
 Clash of Clans
-",,"51,375,599",500.0 M,4.51,0.3%,1.2%,Free,com.supercell.clashofclans,GAME_STRATEGY
+",,"52,096,768",500.0 M,4.5,0.9%,1.2%,Free,com.supercell.clashofclans,GAME_STRATEGY
 1,2.0,"
 Clash Royale
-",,"28,096,690",100.0 M,4.27,0.5%,1.1%,Free,com.supercell.clashroyale,GAME_STRATEGY
+",,"28,445,256",100.0 M,4.24,0.6%,1.1%,Free,com.supercell.clashroyale,GAME_STRATEGY
 2,3.0,"
 Boom Beach
-",,"5,900,905",50.0 M,4.47,0.1%,0.4%,Free,com.supercell.boombeach,GAME_STRATEGY
+",,"5,931,876",50.0 M,4.47,0.3%,0.5%,Free,com.supercell.boombeach,GAME_STRATEGY
 3,4.0,"
-Lords Mobile: Battle of the Empires - Strategy RPG
-",,"4,853,317",100.0 M,4.18,0.8%,1.5%,Free,com.igg.android.lordsmobile,GAME_STRATEGY
+Lords Mobile: Kingdom Wars
+",,"4,981,273",100.0 M,4.14,1.3%,2.3%,Free,com.igg.android.lordsmobile,GAME_STRATEGY
 4,5.0,"
-Castle Clash: Brave Squads
-",,"4,717,542",50.0 M,4.11,0.1%,0.3%,Free,com.igg.castleclash,GAME_STRATEGY
+Castle Clash: Guild Royale
+",,"4,750,076",100.0 M,4.12,0.4%,0.6%,Free,com.igg.castleclash,GAME_STRATEGY
 5,6.0,"
 Plants vs. Zombies FREE
-",,"4,636,092",100.0 M,4.38,0.6%,1.2%,Free,com.ea.game.pvzfree_row,GAME_STRATEGY
+",,"4,709,784",100.0 M,4.35,0.8%,1.3%,Free,com.ea.game.pvzfree_row,GAME_STRATEGY
 6,7.0,"
-Monster Legends
-",,"2,976,644",50.0 M,4.58,0.6%,1.2%,Free,es.socialpoint.MonsterLegends,GAME_STRATEGY
-7,8.0,"
 Grow Empire: Rome
-",,"2,957,840",10.0 M,4.58,2.2%,4.2%,Free,com.empire.grow.rome,GAME_STRATEGY
+",,"3,126,732",10.0 M,4.57,2.7%,4.9%,Free,com.empire.grow.rome,GAME_STRATEGY
+7,8.0,"
+Monster Legends
+",,"3,032,044",50.0 M,4.56,0.9%,1.6%,Free,es.socialpoint.MonsterLegends,GAME_STRATEGY
 8,9.0,"
 Bid Wars - Storage Auctions and Pawn Shop Tycoon
-",,"2,926,887",10.0 M,4.43,1.2%,2.8%,Free,br.com.tapps.bidwars,GAME_STRATEGY
+",,"2,976,075",10.0 M,4.44,0.7%,1.4%,Free,br.com.tapps.bidwars,GAME_STRATEGY
 9,10.0,"
 Clash of Kings : New Crescent Civilization
-",,"2,300,581",50.0 M,4.14,0.1%,0.2%,Free,com.hcg.cok.gp,GAME_STRATEGY
+",,"2,305,070",50.0 M,4.13,0.1%,0.2%,Free,com.hcg.cok.gp,GAME_STRATEGY
 10,11.0,"
 Vlogger Go Viral - Tuber Game
-",,"1,715,965",10.0 M,4.63,2.6%,7.0%,Free,br.com.tapps.vloggergoviral,GAME_STRATEGY
+",,"1,799,002",10.0 M,4.59,2.1%,4.1%,Free,br.com.tapps.vloggergoviral,GAME_STRATEGY
 11,12.0,"
 Clash of Lords 2: Guild Castle
-",,"1,710,483",10.0 M,4.27,0.0%,0.0%,Free,com.igg.clashoflords2,GAME_STRATEGY
+",,"1,710,465",10.0 M,4.27,0.0%,0.0%,Free,com.igg.clashoflords2,GAME_STRATEGY
 12,13.0,"
-Castle Clash: Путь Храбрых
-",,"1,651,823",10.0 M,4.36,0.1%,0.2%,Free,com.igg.castleclash_ru,GAME_STRATEGY
+Castle Clash: Схватка Гильдий
+",,"1,657,932",10.0 M,4.34,0.2%,0.3%,Free,com.igg.castleclash_ru,GAME_STRATEGY
 13,14.0,"
 Game of War - Fire Age
-",,"1,497,761",50.0 M,3.61,0.0%,0.1%,Free,com.machinezone.gow,GAME_STRATEGY
+",,"1,496,897",50.0 M,3.6,0.0%,0.0%,Free,com.machinezone.gow,GAME_STRATEGY
 14,15.0,"
 Megapolis: city building simulator. Urban strategy
-",,"1,409,134",50.0 M,4.48,0.4%,0.8%,Free,com.socialquantum.acityint,GAME_STRATEGY
+",,"1,418,815",50.0 M,4.46,0.3%,0.6%,Free,com.socialquantum.acityint,GAME_STRATEGY
 15,16.0,"
-Empire: Four Kingdoms | Medieval Strategy MMO
-",,"1,308,630",50.0 M,4.17,0.1%,0.1%,Free,air.com.goodgamestudios.empirefourkingdoms,GAME_STRATEGY
-16,17.0,"
 Last Shelter: Survival
-",,"1,268,754",10.0 M,4.57,5.0%,14.1%,Free,com.more.dayzsurvival.gp,GAME_STRATEGY
-17,18.0,"
+",,"1,349,418",10.0 M,4.43,4.1%,5.4%,Free,com.more.dayzsurvival.gp,GAME_STRATEGY
+16,17.0,"
 Stick War: Legacy
-",,"1,265,672",50.0 M,4.43,2.5%,5.0%,Free,com.maxgames.stickwarlegacy,GAME_STRATEGY
+",,"1,348,520",50.0 M,4.44,3.2%,5.6%,Free,com.maxgames.stickwarlegacy,GAME_STRATEGY
+17,18.0,"
+Empire: Four Kingdoms | Medieval Strategy MMO
+",,"1,310,237",50.0 M,4.17,0.1%,0.1%,Free,air.com.goodgamestudios.empirefourkingdoms,GAME_STRATEGY
 18,19.0,"
 King of Thieves
-",,"1,224,908",10.0 M,4.52,0.3%,0.6%,Free,com.zeptolab.thieves.google,GAME_STRATEGY
+",,"1,233,767",10.0 M,4.5,0.4%,0.6%,Free,com.zeptolab.thieves.google,GAME_STRATEGY
 19,20.0,"
 Throne Rush
-",,"1,212,890",10.0 M,4.46,0.1%,0.2%,Free,com.progrestar.bft,GAME_STRATEGY
+",,"1,215,383",10.0 M,4.46,0.1%,0.2%,Free,com.progrestar.bft,GAME_STRATEGY

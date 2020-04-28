@@ -1,4 +1,5 @@
 import time
+import os
 from pathlib import Path
 
 import numpy as np
@@ -11,30 +12,10 @@ from utils import (create_list_of_app_ids,
 	fetch_most_relevants_comments_all_apks,
 	read_files_in_folder, 
 	store_apps_from_category,
+        fetch_most_relevant_comments,
         fetch_and_store_comments,
         fetch_and_store_comments_all_apks)
 
-CATEGORIES = {
-    "GAME_ACTION": "GAME_ACTION",
-    "GAME_ADVENTURE": "GAME_ADVENTURE",
-    "GAME_ARCADE": "GAME_ARCADE",
-    "GAME_BOARD": "GAME_BOARD",
-    "GAME_CARD": "GAME_CARD",
-    "GAME_CASINO": "GAME_CASINO",
-    "GAME_CASUAL": "GAME_CASUAL",
-    "GAME_PUZZLE": "GAME_PUZZLE",
-    "GAME_RACING": "GAME_RACING",
-    "GAME_ROLE_PLAYING": "GAME_ROLE_PLAYING",
-    "GAME_SIMULATION": "GAME_SIMULATION",
-    "GAME_SPORTS": "GAME_SPORTS",
-    "GAME_STRATEGY": "GAME_STRATEGY",
-    "GAME_TRIVIA": "GAME_TRIVIA",
-    "GAME_WORD": "GAME_WORD",
-}
-
-# Run once
-#for category in CATEGORIES:
-#    store_apps_from_category(category)
 data = create_list_of_app_ids()
 data = data[data['rank'] < 11]
 app_id_list = data['app_id']

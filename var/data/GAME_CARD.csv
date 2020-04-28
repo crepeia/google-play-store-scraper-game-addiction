@@ -1,61 +1,61 @@
 ,rank,title,icon,↓Total ratings,Installs,Average rating,Growth (30 days),Growth (60 days),Price,app_id,category
 0,1.0,"
 Yu-Gi-Oh! Duel Links
-",,"1,887,768",10.0 M,4.49,1.0%,1.9%,Free,jp.konami.duellinks,GAME_CARD
+",,"1,929,192",10.0 M,4.48,1.0%,1.9%,Free,jp.konami.duellinks,GAME_CARD
 1,2.0,"
 Hearthstone
-",,"1,657,140",10.0 M,4.13,0.7%,1.6%,Free,com.blizzard.wtcg.hearthstone,GAME_CARD
+",,"1,682,803",10.0 M,4.07,0.6%,1.3%,Free,com.blizzard.wtcg.hearthstone,GAME_CARD
 2,3.0,"
 Solitaire
-",,"1,519,084",100.0 M,4.53,0.2%,0.5%,Free,com.mobilityware.solitaire,GAME_CARD
+",,"1,527,725",100.0 M,4.53,0.3%,0.5%,Free,com.mobilityware.solitaire,GAME_CARD
 3,4.0,"
 World Series of Poker – WSOP Free Texas Holdem
-",,"1,224,145",10.0 M,4.43,1.3%,2.4%,Free,com.playtika.wsop.gp,GAME_CARD
+",,"1,260,472",10.0 M,4.44,1.5%,2.5%,Free,com.playtika.wsop.gp,GAME_CARD
 4,5.0,"
 Live Hold’em Pro Poker - Free Casino Games
-",,"1,122,560",10.0 M,4.14,0.0%,0.1%,Free,com.dragonplay.liveholdempro,GAME_CARD
+",,"1,122,311",10.0 M,4.14,0.0%,0.0%,Free,com.dragonplay.liveholdempro,GAME_CARD
 5,6.0,"
 Castle Crush: Epic Battle - Free Strategy Games
-",,"1,069,475",10.0 M,4.39,1.3%,2.6%,Free,com.tfgco.games.strategy.free.castlecrush,GAME_CARD
+",,"1,104,225",10.0 M,4.39,1.6%,2.8%,Free,com.tfgco.games.strategy.free.castlecrush,GAME_CARD
 6,7.0,"
 Pyramid Solitaire Saga
-",,"1,033,990",10.0 M,4.63,0.3%,0.5%,Free,com.king.pyramidsolitairesaga,GAME_CARD
+",,"1,041,097",10.0 M,4.62,0.3%,0.6%,Free,com.king.pyramidsolitairesaga,GAME_CARD
 7,8.0,"
 Solitaire
-",,"637,796",50.0 M,4.29,0.1%,0.1%,Free,com.kathleenOswald.solitaireGooglePlay,GAME_CARD
+",,"647,854",50.0 M,4.27,1.0%,1.4%,Free,com.kathleenOswald.solitaireGooglePlay,GAME_CARD
 8,9.0,"
 Solitaire - Grand Harvest - Tripeaks
-",,"567,717",10.0 M,4.66,3.2%,7.3%,Free,net.supertreat.solitaire,GAME_CARD
+",,"625,771",10.0 M,4.63,4.4%,8.8%,Free,net.supertreat.solitaire,GAME_CARD
 9,10.0,"
-Fairway Solitaire Blast
-",,"554,938",5.0 M,4.73,0.1%,0.2%,Free,air.com.bigfishgames.fairwayrevengegooguniversalf2p,GAME_CARD
-10,11.0,"
 Solitaire TriPeaks: Play Free Solitaire Card Games
-",,"553,782",10.0 M,4.5,1.1%,2.1%,Free,com.gsn.android.tripeaks,GAME_CARD
+",,"568,590",10.0 M,4.49,1.3%,2.3%,Free,com.gsn.android.tripeaks,GAME_CARD
+10,11.0,"
+Fairway Solitaire Blast
+",,"555,834",5.0 M,4.73,0.1%,0.1%,Free,air.com.bigfishgames.fairwayrevengegooguniversalf2p,GAME_CARD
 11,12.0,"
-Deck Heroes: Legacy
-",,"470,067",10.0 M,4.35,0.0%,0.0%,Free,com.igg.bzbee.deckheroes,GAME_CARD
+UNO!™
+",,"534,459",10.0 M,3.89,12.7%,20.7%,Free,com.matteljv.uno,GAME_CARD
 12,13.0,"
-Spider Solitaire
-",,"467,204",10.0 M,4.5,0.8%,2.0%,Free,com.mobilityware.spider,GAME_CARD
-13,14.0,"
 Gin Rummy Plus
-",,"462,053",5.0 M,4.59,1.4%,2.8%,Free,net.peakgames.ginrummyplus,GAME_CARD
+",,"478,792",5.0 M,4.56,1.6%,3.1%,Free,net.peakgames.ginrummyplus,GAME_CARD
+13,14.0,"
+Spider Solitaire
+",,"474,880",10.0 M,4.51,0.8%,1.4%,Free,com.mobilityware.spider,GAME_CARD
 14,15.0,"
-Yu-Gi-Oh! Duel Generation
-",,"433,536",10.0 M,4.23,0.5%,0.9%,Free,com.konami.ygodgtest,GAME_CARD
+Deck Heroes: Legacy
+",,"470,073",10.0 M,4.34,0.0%,0.0%,Free,com.igg.bzbee.deckheroes,GAME_CARD
 15,16.0,"
 Truco Blyts
-",,"432,792",10.0 M,4.56,1.1%,2.1%,Free,com.blyts.trucolite.activities,GAME_CARD
+",,"453,673",10.0 M,4.5,3.1%,4.1%,Free,com.blyts.trucolite.activities,GAME_CARD
 16,17.0,"
-Solitaire!
-",,"432,063",10.0 M,4.64,0.3%,0.5%,Free,com.spacegame.solitaire.basic,GAME_CARD
-17,18.0,"
-UNO!™
-",,"429,252",10.0 M,4.03,9.5%,19.4%,Free,com.matteljv.uno,GAME_CARD
-18,19.0,"
 Poker Games: World Poker Club
-",,"429,094",5.0 M,4.57,1.2%,2.1%,Free,air.ru.crazypanda.wpcm,GAME_CARD
+",,"441,103",10.0 M,4.59,1.3%,2.4%,Free,air.ru.crazypanda.wpcm,GAME_CARD
+17,18.0,"
+Yu-Gi-Oh! Duel Generation
+",,"438,964",10.0 M,4.17,0.6%,1.1%,Free,com.konami.ygodgtest,GAME_CARD
+18,19.0,"
+Solitaire!
+",,"434,694",10.0 M,4.62,0.3%,0.5%,Free,com.spacegame.solitaire.basic,GAME_CARD
 19,20.0,"
 Solitaire
-",,"373,413",10.0 M,4.59,0.7%,1.5%,Free,com.spacegame.basic3,GAME_CARD
+",,"394,818",10.0 M,4.68,4.3%,7.1%,Free,com.lemongame.klondike.solitaire,GAME_CARD

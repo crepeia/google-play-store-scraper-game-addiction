@@ -1,61 +1,61 @@
 ,rank,title,icon,↓Total ratings,Installs,Average rating,Growth (30 days),Growth (60 days),Price,app_id,category
 0,1.0,"
-Garena Free Fire: Winterlands
-",,"40,792,796",500.0 M,4.25,2.8%,9.0%,Free,com.dts.freefireth,GAME_ACTION
+Garena Free Fire: Wonderland
+",,"46,526,127",500.0 M,4.33,6.2%,12.0%,Free,com.dts.freefireth,GAME_ACTION
 1,2.0,"
 PUBG MOBILE
-",,"24,743,201",100.0 M,4.4,2.0%,7.0%,Free,com.tencent.ig,GAME_ACTION
+",,"26,718,429",100.0 M,4.33,2.8%,6.8%,Free,com.tencent.ig,GAME_ACTION
 2,3.0,"
 Mobile Legends: Bang Bang
-",,"16,733,176",100.0 M,4.38,3.3%,9.0%,Free,com.mobile.legends,GAME_ACTION
+",,"18,039,486",100.0 M,4.13,4.1%,6.7%,Free,com.mobile.legends,GAME_ACTION
 3,4.0,"
 Shadow Fight 2
-",,"12,660,487",100.0 M,4.63,0.7%,1.4%,Free,com.nekki.shadowfight,GAME_ACTION
+",,"12,859,928",100.0 M,4.61,0.7%,1.4%,Free,com.nekki.shadowfight,GAME_ACTION
 4,5.0,"
 Sniper 3D: Fun Offline Gun Shooting Games Free
-",,"11,979,610",100.0 M,4.49,2.2%,4.4%,Free,com.fungames.sniper3d,GAME_ACTION
+",,"12,588,985",100.0 M,4.48,2.7%,4.3%,Free,com.fungames.sniper3d,GAME_ACTION
 5,6.0,"
 Brawl Stars
-",,"9,159,434",100.0 M,4.38,8.3%,17.7%,Free,com.supercell.brawlstars,GAME_ACTION
+",,"10,603,141",100.0 M,4.33,8.3%,13.3%,Free,com.supercell.brawlstars,GAME_ACTION
 6,7.0,"
 Temple Run 2
-",,"8,988,495",500.0 M,4.33,0.3%,0.6%,Free,com.imangi.templerun2,GAME_ACTION
+",,"9,083,262",500.0 M,4.3,0.6%,0.9%,Free,com.imangi.templerun2,GAME_ACTION
 7,8.0,"
 Call of Duty®: Mobile
-",,"7,105,017",50.0 M,4.59,8.6%,17.7%,Free,com.activision.callofduty.shooter,GAME_ACTION
+",,"8,161,321",100.0 M,4.53,8.2%,12.7%,Free,com.activision.callofduty.shooter,GAME_ACTION
 8,9.0,"
 slither.io
-",,"5,961,654",100.0 M,4.16,0.7%,1.1%,Free,air.com.hypah.io.slither,GAME_ACTION
+",,"6,076,682",100.0 M,4.1,0.9%,1.6%,Free,air.com.hypah.io.slither,GAME_ACTION
 9,10.0,"
 Gangstar Vegas: World of Crime
-",,"5,656,965",50.0 M,4.38,0.5%,1.1%,Free,com.gameloft.android.ANMP.GloftGGHM,GAME_ACTION
+",,"5,752,478",50.0 M,4.34,0.9%,1.4%,Free,com.gameloft.android.ANMP.GloftGGHM,GAME_ACTION
 10,11.0,"
 Pixel Gun 3D: FPS Shooter & Battle Royale
-",,"5,323,366",50.0 M,4.22,0.5%,1.0%,Free,com.pixel.gun3d,GAME_ACTION
+",,"5,387,933",50.0 M,4.21,0.6%,1.0%,Free,com.pixel.gun3d,GAME_ACTION
 11,12.0,"
 Crossy Road
-",,"4,387,135",100.0 M,4.6,0.1%,0.3%,Free,com.yodo1.crossyroad,GAME_ACTION
+",,"4,401,560",100.0 M,4.58,0.1%,0.3%,Free,com.yodo1.crossyroad,GAME_ACTION
 12,13.0,"
 Helix Jump
-",,"4,192,845",100.0 M,4.05,0.2%,0.6%,Free,com.h8games.helixjump,GAME_ACTION
+",,"4,201,335",100.0 M,4.03,0.1%,0.2%,Free,com.h8games.helixjump,GAME_ACTION
 13,14.0,"
 Banana Kong
-",,"4,068,741",100.0 M,4.59,0.7%,1.5%,Free,com.fdgentertainment.bananakong,GAME_ACTION
+",,"4,129,033",100.0 M,4.58,0.7%,1.3%,Free,com.fdgentertainment.bananakong,GAME_ACTION
 14,15.0,"
-DEER HUNTER CLASSIC
-",,"3,974,578",100.0 M,4.41,0.0%,0.1%,Free,com.glu.deerhunt2,GAME_ACTION
+PUBG MOBILE LITE
+",,"4,073,331",100.0 M,4.25,16.8%,28.6%,Free,com.tencent.iglite,GAME_ACTION
 15,16.0,"
-Agar.io
-",,"3,967,465",100.0 M,4.05,0.2%,0.4%,Free,com.miniclip.agar.io,GAME_ACTION
-16,17.0,"
-War Robots. 6v6 Tactical Multiplayer Battles
-",,"3,917,923",50.0 M,4.36,0.8%,1.7%,Free,com.pixonic.wwr,GAME_ACTION
-17,18.0,"
 Bowmasters
-",,"3,802,125",100.0 M,4.53,2.6%,5.4%,Free,com.miniclip.bowmasters,GAME_ACTION
+",,"4,055,762",100.0 M,4.53,3.0%,5.7%,Free,com.miniclip.bowmasters,GAME_ACTION
+16,17.0,"
+Agar.io
+",,"3,985,550",100.0 M,4.03,0.2%,0.4%,Free,com.miniclip.agar.io,GAME_ACTION
+17,18.0,"
+DEER HUNTER CLASSIC
+",,"3,977,061",100.0 M,4.41,0.0%,0.1%,Free,com.glu.deerhunt2,GAME_ACTION
 18,19.0,"
-MORTAL KOMBAT
-",,"3,795,687",50.0 M,4.26,0.6%,1.5%,Free,com.wb.goog.mkx,GAME_ACTION
+War Robots. 6v6 Tactical Multiplayer Battles
+",,"3,951,853",50.0 M,4.29,0.3%,0.7%,Free,com.pixonic.wwr,GAME_ACTION
 19,20.0,"
 Talking Tom Gold Run
-",,"3,766,686",100.0 M,4.38,1.4%,2.9%,Free,com.outfit7.talkingtomgoldrun,GAME_ACTION
+",,"3,887,316",100.0 M,4.37,1.6%,2.7%,Free,com.outfit7.talkingtomgoldrun,GAME_ACTION

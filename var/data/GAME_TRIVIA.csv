@@ -1,61 +1,61 @@
 ,rank,title,icon,↓Total ratings,Installs,Average rating,Growth (30 days),Growth (60 days),Price,app_id,category
 0,1.0,"
 Trivia Crack
-",,"6,876,765",100.0 M,4.22,0.3%,0.5%,Free,com.etermax.preguntados.lite,GAME_TRIVIA
+",,"6,952,010",100.0 M,4.2,0.7%,0.9%,Free,com.etermax.preguntados.lite,GAME_TRIVIA
 1,2.0,"
 94% - Quiz, Trivia & Logic
-",,"2,549,773",10.0 M,4.57,0.3%,0.7%,Free,com.scimob.ninetyfour.percent,GAME_TRIVIA
+",,"2,581,703",10.0 M,4.56,0.8%,1.1%,Free,com.scimob.ninetyfour.percent,GAME_TRIVIA
 2,3.0,"
-Logo Quiz
-",,"1,173,409",50.0 M,4.38,0.2%,0.5%,Free,logos.quiz.companies.game,GAME_TRIVIA
-3,4.0,"
-QuizUp
-",,"715,339",10.0 M,4.17,0.1%,0.3%,Free,com.quizup.core,GAME_TRIVIA
-4,5.0,"
-Tricky Test 2™: Genius Brain?
-",,"639,697",10.0 M,4.74,0.5%,1.3%,Free,com.orangenose.trick,GAME_TRIVIA
-5,6.0,"
 Brain Test: Tricky Puzzles
-",,"459,847",10.0 M,4.67,223.3%,8105.4%,Free,com.unicostudio.braintest,GAME_TRIVIA
+",,"1,635,012",10.0 M,4.64,76.6%,219.0%,Free,com.unicostudio.braintest,GAME_TRIVIA
+3,4.0,"
+Logo Quiz
+",,"1,177,037",50.0 M,4.36,0.1%,0.3%,Free,logos.quiz.companies.game,GAME_TRIVIA
+4,5.0,"
+QuizUp
+",,"717,839",10.0 M,4.13,0.2%,0.3%,Free,com.quizup.core,GAME_TRIVIA
+5,6.0,"
+Tricky Test 2™: Genius Brain?
+",,"643,625",10.0 M,4.72,0.3%,0.5%,Free,com.orangenose.trick,GAME_TRIVIA
 6,7.0,"
 TVSMILES - Quiz and Prizes
-",,"408,629",1.0 M,4.5,0.1%,0.1%,Free,de.tvsmiles.app,GAME_TRIVIA
+",,"408,328",1.0 M,4.5,0.0%,0.1%,Free,de.tvsmiles.app,GAME_TRIVIA
 7,8.0,"
 Guess The Song - Music Quiz
-",,"407,093",10.0 M,4.24,0.0%,0.1%,Free,quess.song.music.pop.quiz,GAME_TRIVIA
+",,"407,339",10.0 M,4.24,0.0%,0.1%,Free,quess.song.music.pop.quiz,GAME_TRIVIA
 8,9.0,"
 Quiz: Logo game
-",,"371,380",10.0 M,4.49,0.5%,0.8%,Free,lemmingsatwork.quiz,GAME_TRIVIA
+",,"384,563",10.0 M,4.41,1.9%,3.0%,Free,lemmingsatwork.quiz,GAME_TRIVIA
 9,10.0,"
 QuizDuel
-",,"358,002",10.0 M,3.51,0.8%,1.7%,Free,se.feomedia.quizkampen.de.lite,GAME_TRIVIA
+",,"364,638",10.0 M,3.7,1.0%,1.6%,Free,se.feomedia.quizkampen.de.lite,GAME_TRIVIA
 10,11.0,"
 فطحل العرب - لعبة معلومات عامة
-",,"356,788",1.0 M,4.69,0.7%,1.3%,Free,com.finjanapps.syla,GAME_TRIVIA
+",,"362,156",1.0 M,4.67,0.8%,1.3%,Free,com.finjanapps.syla,GAME_TRIVIA
 11,12.0,"
 94 Degrees: fun trivia quiz
-",,"332,288",10.0 M,4.3,0.1%,0.3%,Free,com.ninetyfour.degrees.app,GAME_TRIVIA
+",,"332,941",10.0 M,4.28,0.1%,0.2%,Free,com.ninetyfour.degrees.app,GAME_TRIVIA
 12,13.0,"
 Quizdom - Trivia more than logo quiz!
-",,"330,794",10.0 M,4.43,0.2%,1.3%,Free,com.freepuzzlegames.logoguessing.quiz,GAME_TRIVIA
+",,"331,181",10.0 M,4.39,0.0%,0.1%,Free,com.freepuzzlegames.logoguessing.quiz,GAME_TRIVIA
 13,14.0,"
 Trivia Crack Kingdoms
-",,"314,431",10.0 M,4.33,0.3%,0.5%,Free,com.etermax.kingdoms,GAME_TRIVIA
+",,"316,543",10.0 M,4.3,0.4%,0.6%,Free,com.etermax.kingdoms,GAME_TRIVIA
 14,15.0,"
-Picture Quiz: Logos
-",,"299,527",10.0 M,4.53,0.0%,0.1%,Free,com.works.timeglass.logoquiz,GAME_TRIVIA
+Free Trivia Game. Questions & Answers. QuizzLand.
+",,"311,059",10.0 M,4.77,16.1%,30.8%,Free,com.xmonetize.quizzland,GAME_TRIVIA
 15,16.0,"
 Gartic
-",,"291,808",10.0 M,4.32,2.1%,4.0%,Free,com.gartic.Gartic,GAME_TRIVIA
+",,"305,587",10.0 M,4.16,3.0%,4.0%,Free,com.gartic.Gartic,GAME_TRIVIA
 16,17.0,"
-Think
-",,"290,407",5.0 M,4.41,0.0%,0.1%,Free,com.june.think,GAME_TRIVIA
+Picture Quiz: Logos
+",,"299,666",10.0 M,4.52,0.0%,0.0%,Free,com.works.timeglass.logoquiz,GAME_TRIVIA
 17,18.0,"
-모두의 퀴즈 - 사진연상 단어
-",,"281,406",1.0 M,4.45,0.0%,0.0%,Free,com.fnsolutions.gmword,GAME_TRIVIA
+Think
+",,"290,282",5.0 M,4.4,0.0%,0.0%,Free,com.june.think,GAME_TRIVIA
 18,19.0,"
-Fight List - Categories Game
-",,"263,632",10.0 M,4.12,0.6%,1.1%,Free,fr.two4tea.fightlist,GAME_TRIVIA
+모두의 퀴즈 - 사진연상 단어
+",,"281,614",1.0 M,4.45,0.0%,0.1%,Free,com.fnsolutions.gmword,GAME_TRIVIA
 19,20.0,"
-Free Trivia Game. Questions & Answers. QuizzLand.
-",,"228,903",10.0 M,4.83,17.8%,31.1%,Free,com.xmonetize.quizzland,GAME_TRIVIA
+Fight List - Categories Game
+",,"272,849",10.0 M,4.0,2.4%,3.0%,Free,fr.two4tea.fightlist,GAME_TRIVIA
