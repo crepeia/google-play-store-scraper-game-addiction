@@ -29,5 +29,3 @@ if __name__ in '__main__':
         print("Categories stored")
     except:
         print("Something went ugly")
-
-

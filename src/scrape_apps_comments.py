@@ -25,6 +25,6 @@ app_id_list = data['app_id']
 # MOST_RELEVANT
 #fetch_most_relevants_comments_all_apks(app_id_list)
 
-# Store and update data from newest reviews
+# Stor and update data from newest reviews
 # NEWEST
 fetch_and_store_comments_all_apks(app_id_list)
