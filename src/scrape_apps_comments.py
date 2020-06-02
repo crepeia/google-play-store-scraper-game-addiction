@@ -17,14 +17,15 @@ from utils import (create_list_of_app_ids,
         fetch_and_store_comments_all_apks)
 
 data = create_list_of_app_ids()
-data = data[data['rank'] < 11]
+data = data[data['rank'] < 21]
 app_id_list = data['app_id']
+print(app_id_list)
 
 # Create folder for each app_id
 # Run once 
 # MOST_RELEVANT
-#fetch_most_relevants_comments_all_apks(app_id_list)
+fetch_most_relevants_comments_all_apks(app_id_list)
 
-# Stor and update data from newest reviews
+# Store and update data from newest reviews
 # NEWEST
-fetch_and_store_comments_all_apks(app_id_list)
+#fetch_and_store_comments_all_apks(app_id_list)

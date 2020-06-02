@@ -137,7 +137,7 @@ def fetch_most_relevant_comments(app_id):
 def fetch_most_relevants_comments_all_apks(app_id_list):
     for app_id in app_id_list:
         fetch_most_relevant_comments(app_id)
-        time.sleep(1.2 + np.random.normal(0,0.2,1))
+        time.sleep(1.2)
 
 
 def read_files_in_folder(app_id):
