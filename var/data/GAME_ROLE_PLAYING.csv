@@ -1,61 +1,21 @@
 ,rank,title,icon,↓Total ratings,Installs,Average rating,Growth (30 days),Growth (60 days),Price,app_id,category
-0,1.0,"
-MARVEL Future Fight
-",,"2,759,302",50.0 M,4.39,0.4%,0.7%,Free,com.netmarble.mherosgb,GAME_ROLE_PLAYING
-1,2.0,"
-Angry Birds Epic RPG
-",,"2,655,384",10.0 M,4.55,0.0%,0.0%,Free,com.rovio.gold,GAME_ROLE_PLAYING
-2,3.0,"
-Shadow Fight 3
-",,"2,527,699",50.0 M,4.0,1.5%,2.8%,Free,com.nekki.shadowfight3,GAME_ROLE_PLAYING
-3,4.0,"
-Flight Pilot Simulator 3D Free
-",,"2,460,471",100.0 M,4.31,0.8%,1.4%,Free,com.fungames.flightpilot,GAME_ROLE_PLAYING
-4,5.0,"
-Avakin Life - 3D Virtual World
-",,"2,415,258",50.0 M,4.32,3.1%,5.8%,Free,com.lockwoodpublishing.avakinlife,GAME_ROLE_PLAYING
-5,6.0,"
-Summoners War
-",,"2,212,558",50.0 M,4.33,0.3%,0.6%,Free,com.com2us.smon.normal.freefull.google.kr.android.common,GAME_ROLE_PLAYING
-6,7.0,"
-AFK Arena
-",,"2,139,702",10.0 M,4.63,4.2%,8.9%,Free,com.lilithgame.hgame.gp,GAME_ROLE_PLAYING
-7,8.0,"
-Eternium
-",,"2,100,853",10.0 M,4.8,1.1%,2.3%,Free,com.makingfun.mageandminions,GAME_ROLE_PLAYING
-8,9.0,"
-Star Wars™: Galaxy of Heroes
-",,"1,616,932",10.0 M,4.28,0.6%,1.1%,Free,com.ea.game.starwarscapital_row,GAME_ROLE_PLAYING
-9,10.0,"
-몬스터 길들이기
-",,"1,504,897",10.0 M,4.04,0.0%,0.0%,Free,com.cjenm.monster,GAME_ROLE_PLAYING
-10,11.0,"
-Tap Titans
-",,"1,342,835",10.0 M,4.79,0.0%,0.0%,Free,com.gamehivecorp.taptitans,GAME_ROLE_PLAYING
-11,12.0,"
-Hustle Castle: Medieval games in the kingdom
-",,"1,317,725",10.0 M,4.29,1.2%,2.2%,Free,com.my.hc.rpg.kingdom.simulator,GAME_ROLE_PLAYING
-12,13.0,"
-Darkness Rises
-",,"1,293,016",10.0 M,4.51,2.7%,4.3%,Free,com.nexon.da3.global,GAME_ROLE_PLAYING
-13,14.0,"
-MovieStarPlanet
-",,"1,163,268",10.0 M,3.99,0.4%,0.6%,Free,air.MSPMobile,GAME_ROLE_PLAYING
-14,15.0,"
-Magic Rush: Heroes
-",,"1,118,909",10.0 M,4.4,0.1%,0.2%,Free,com.moonton.magicrush,GAME_ROLE_PLAYING
-15,16.0,"
-세븐나이츠
-",,"947,041",10.0 M,3.76,0.0%,0.1%,Free,com.cjenm.sknights,GAME_ROLE_PLAYING
-16,17.0,"
-Kritika: The White Knights
-",,"874,454",10.0 M,4.33,0.1%,0.2%,Free,com.gamevil.kritikamobile.android.google.global.normal,GAME_ROLE_PLAYING
-17,18.0,"
-RAID: Shadow Legends
-",,"837,994",10.0 M,4.19,7.2%,17.6%,Free,com.plarium.raidlegends,GAME_ROLE_PLAYING
-18,19.0,"
-Shakes and Fidget
-",,"823,673",5.0 M,4.67,1.0%,1.8%,Free,com.playagames.shakesfidget,GAME_ROLE_PLAYING
-19,20.0,"
-FINAL FANTASY  BRAVE EXVIUS
-",,"803,504",10.0 M,4.21,0.3%,0.5%,Free,com.square_enix.android_googleplay.FFBEWW,GAME_ROLE_PLAYING
+0,1.0,MARVEL Future Fight,,"2,815,239",50.0 M,4.29,0.3%,0.6%,Free,com.netmarble.mherosgb,GAME_ROLE_PLAYING
+1,2.0,Avakin Life - 3D Virtual World,,"2,776,895",50.0 M,4.25,1.7%,4.0%,Free,com.lockwoodpublishing.avakinlife,GAME_ROLE_PLAYING
+2,3.0,Shadow Fight 3,,"2,755,053",50.0 M,3.93,1.1%,2.7%,Free,com.nekki.shadowfight3,GAME_ROLE_PLAYING
+3,4.0,Angry Birds Epic RPG,,"2,654,258",10.0 M,4.55,0.0%,0.0%,Free,com.rovio.gold,GAME_ROLE_PLAYING
+4,5.0,Flight Pilot Simulator 3D Free,,"2,554,187",100.0 M,4.21,0.6%,1.1%,Free,com.fungames.flightpilot,GAME_ROLE_PLAYING
+5,6.0,AFK Arena,,"2,537,896",10.0 M,4.61,3.0%,6.2%,Free,com.lilithgame.hgame.gp,GAME_ROLE_PLAYING
+6,7.0,Summoners War,,"2,255,513",50.0 M,4.3,0.3%,0.6%,Free,com.com2us.smon.normal.freefull.google.kr.android.common,GAME_ROLE_PLAYING
+7,8.0,Eternium,,"2,221,555",10.0 M,4.78,1.1%,2.3%,Free,com.makingfun.mageandminions,GAME_ROLE_PLAYING
+8,9.0,Star Wars™: Galaxy of Heroes,,"1,647,127",50.0 M,4.13,0.2%,0.6%,Free,com.ea.game.starwarscapital_row,GAME_ROLE_PLAYING
+9,10.0,몬스터 길들이기,,"1,503,003",10.0 M,4.04,0.0%,0.0%,Free,com.cjenm.monster,GAME_ROLE_PLAYING
+10,11.0,Darkness Rises,,"1,393,111",10.0 M,4.45,0.9%,1.9%,Free,com.nexon.da3.global,GAME_ROLE_PLAYING
+11,12.0,Hustle Castle: Medieval games in the kingdom,,"1,369,872",10.0 M,4.2,0.5%,1.1%,Free,com.my.hc.rpg.kingdom.simulator,GAME_ROLE_PLAYING
+12,13.0,Tap Titans,,"1,344,048",10.0 M,4.79,0.0%,0.0%,Free,com.gamehivecorp.taptitans,GAME_ROLE_PLAYING
+13,14.0,MovieStarPlanet,,"1,182,999",10.0 M,3.85,0.1%,0.4%,Free,air.MSPMobile,GAME_ROLE_PLAYING
+14,15.0,Magic Rush: Heroes,,"1,124,483",10.0 M,4.37,0.1%,0.2%,Free,com.moonton.magicrush,GAME_ROLE_PLAYING
+15,16.0,RAID: Shadow Legends,,"1,093,221",10.0 M,4.18,3.9%,8.1%,Free,com.plarium.raidlegends,GAME_ROLE_PLAYING
+16,17.0,Hero Wars – Hero Fantasy Multiplayer Battles,,"1,031,521",10.0 M,4.5,5.6%,10.5%,Free,com.nexters.herowars,GAME_ROLE_PLAYING
+17,18.0,세븐나이츠,,"944,881",10.0 M,3.76,0.2%,0.4%,Free,com.cjenm.sknights,GAME_ROLE_PLAYING
+18,19.0,Kritika: The White Knights,,"877,280",10.0 M,4.32,0.0%,0.1%,Free,com.gamevil.kritikamobile.android.google.global.normal,GAME_ROLE_PLAYING
+19,20.0,Shakes and Fidget,,"856,712",5.0 M,4.66,0.5%,1.0%,Free,com.playagames.shakesfidget,GAME_ROLE_PLAYING

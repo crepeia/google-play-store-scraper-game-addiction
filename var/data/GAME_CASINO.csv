@@ -1,61 +1,21 @@
 ,rank,title,icon,↓Total ratings,Installs,Average rating,Growth (30 days),Growth (60 days),Price,app_id,category
-0,1.0,"
-Zynga Poker – Free Texas Holdem Online Card Games
-",,"2,431,904",50.0 M,4.41,1.0%,1.6%,Free,com.zynga.livepoker,GAME_CASINO
-1,2.0,"
-Slotomania™ Slots Casino: Slot Machine Games
-",,"1,645,310",50.0 M,4.36,0.8%,1.5%,Free,air.com.playtika.slotomania,GAME_CASINO
-2,3.0,"
-Teen Patti by Octro - Indian Poker Card Game
-",,"1,431,156",50.0 M,4.4,1.0%,1.1%,Free,com.octro.teenpatti,GAME_CASINO
-3,4.0,"
-Coin Dozer: Sweepstakes
-",,"1,398,712",50.0 M,4.55,0.5%,1.2%,Free,com.leftover.CoinDozer,GAME_CASINO
-4,5.0,"
-Teen Patti Gold - 3 Patti, Rummy, Poker Card Game
-",,"1,304,075",50.0 M,4.6,2.9%,4.3%,Free,com.teenpatti.hd.gold,GAME_CASINO
-5,6.0,"
-House of Fun™️: Free Slots & Casino Games
-",,"1,287,065",10.0 M,4.56,1.1%,2.2%,Free,com.pacificinteractive.HouseOfFun,GAME_CASINO
-6,7.0,"
-Scatter Slots - Free Casino Games & Vegas Slots
-",,"1,060,892",10.0 M,4.62,1.7%,3.3%,Free,com.murka.scatterslots,GAME_CASINO
-7,8.0,"
-Lucky Day - Win Real Money
-",,"912,341",10.0 M,4.45,2.1%,5.4%,Free,com.luckyday.app,GAME_CASINO
-8,9.0,"
-Jackpot Party Casino Games: Spin FREE Casino Slots
-",,"801,462",10.0 M,4.57,1.5%,2.7%,Free,com.williamsinteractive.jackpotparty,GAME_CASINO
-9,10.0,"
-myVEGAS Slots - Las Vegas Casino Slot Machines
-",,"733,700",10.0 M,4.58,0.5%,0.8%,Free,com.playstudios.myvegas,GAME_CASINO
-10,11.0,"
-Huuuge Casino Slots - Best Slot Machines
-",,"670,143",10.0 M,4.3,1.6%,2.8%,Free,com.huuuge.casino.slots,GAME_CASINO
-11,12.0,"
-Bingo Bash: Live Bingo Games & Free Slots By GSN
-",,"610,935",10.0 M,4.52,0.2%,0.5%,Free,air.com.bitrhymes.bingo,GAME_CASINO
-12,13.0,"
-DoubleU Casino - Free Slots
-",,"596,736",10.0 M,4.45,0.6%,1.3%,Free,com.doubleugames.DoubleUCasino,GAME_CASINO
-13,14.0,"
-Bingo Showdown: Free Bingo Games – Bingo Live Game
-",,"588,415",5.0 M,4.67,0.1%,0.2%,Free,air.com.spicerackmedia.bingoshowdown,GAME_CASINO
-14,15.0,"
-DH Texas Poker - Texas Hold'em
-",,"579,977",10.0 M,4.21,0.1%,0.1%,Free,com.droidhen.game.poker,GAME_CASINO
-15,16.0,"
-Jackpot Slot Machines - Slots Era™ Vegas Casino
-",,"577,309",5.0 M,4.6,0.9%,2.5%,Free,com.murka.slotsera,GAME_CASINO
-16,17.0,"
-Cash Frenzy™ Casino – Top Casino Games
-",,"572,944",5.0 M,4.69,13.6%,26.6%,Free,slots.pcg.casino.games.free.android,GAME_CASINO
-17,18.0,"
-Caesars Casino: Free Slots Games
-",,"554,186",10.0 M,4.41,1.2%,2.1%,Free,com.playtika.caesarscasino,GAME_CASINO
-18,19.0,"
-BLACKJACK!
-",,"540,820",10.0 M,4.55,0.2%,0.4%,Free,com.genina.android.blackjack.view,GAME_CASINO
-19,20.0,"
-Gold Fish Casino Slots - FREE Slot Machine Games
-",,"525,027",5.0 M,4.74,0.5%,0.9%,Free,com.williamsinteractive.goldfish,GAME_CASINO
+0,1.0,Zynga Poker – Free Texas Holdem Online Card Games,,"2,509,473",50.0 M,4.33,0.4%,0.7%,Free,com.zynga.livepoker,GAME_CASINO
+1,2.0,Slotomania™ Free Slots: Casino Slot Machine Games,,"1,710,631",50.0 M,4.35,0.7%,1.4%,Free,air.com.playtika.slotomania,GAME_CASINO
+2,3.0,Teen Patti by Octro - Indian Poker Card Game,,"1,475,134",50.0 M,4.26,0.3%,0.6%,Free,com.octro.teenpatti,GAME_CASINO
+3,4.0,Coin Dozer: Sweepstakes,,"1,443,922",50.0 M,4.48,0.5%,0.9%,Free,com.leftover.CoinDozer,GAME_CASINO
+4,5.0,"Teen Patti Gold - 3 Patti, Rummy, Poker & Cricket",,"1,430,171",50.0 M,4.48,1.2%,2.5%,Free,com.teenpatti.hd.gold,GAME_CASINO
+5,6.0,House of Fun™️: Free Slots & Casino Slots Machines,,"1,342,867",10.0 M,4.55,0.7%,1.4%,Free,com.pacificinteractive.HouseOfFun,GAME_CASINO
+6,7.0,Scatter Slots - Las Vegas Casino Game 777 Online,,"1,147,389",10.0 M,4.58,1.4%,2.8%,Free,com.murka.scatterslots,GAME_CASINO
+7,8.0,Lucky Day - Win Real Money,,"973,223",10.0 M,4.01,0.8%,1.7%,Free,com.luckyday.app,GAME_CASINO
+8,9.0,Jackpot Party Casino Games: Spin FREE Casino Slots,,"863,665",10.0 M,4.54,1.3%,2.4%,Free,com.williamsinteractive.jackpotparty,GAME_CASINO
+9,10.0,myVEGAS Slots - Las Vegas Casino Slot Machines,,"742,248",10.0 M,4.54,0.2%,0.4%,Free,com.playstudios.myvegas,GAME_CASINO
+10,11.0,Huuuge Casino Slots - Best Slot Machines,,"705,243",10.0 M,4.22,0.9%,1.8%,Free,com.huuuge.casino.slots,GAME_CASINO
+11,12.0,Cash Frenzy™ Casino – Free Slots Games,,"693,740",10.0 M,4.64,2.4%,5.6%,Free,slots.pcg.casino.games.free.android,GAME_CASINO
+12,13.0,DoubleU Casino - Free Slots,,"628,973",10.0 M,4.4,1.0%,2.2%,Free,com.doubleugames.DoubleUCasino,GAME_CASINO
+13,14.0,Jackpot Slot Machines - Slots Era™ Vegas Casino,,"605,809",5.0 M,4.58,0.8%,1.7%,Free,com.murka.slotsera,GAME_CASINO
+14,15.0,Caesars Casino: Free Slots Games,,"582,051",10.0 M,4.32,0.7%,1.6%,Free,com.playtika.caesarscasino,GAME_CASINO
+15,16.0,DH Texas Poker - Texas Hold'em,,"581,729",10.0 M,4.2,0.0%,0.1%,Free,com.droidhen.game.poker,GAME_CASINO
+16,17.0,BLACKJACK!,,"543,525",10.0 M,4.55,0.0%,0.1%,Free,com.genina.android.blackjack.view,GAME_CASINO
+17,18.0,Gold Fish Casino Slots - FREE Slot Machine Games,,"539,231",5.0 M,4.67,0.5%,1.0%,Free,com.williamsinteractive.goldfish,GAME_CASINO
+18,19.0,Hit it Rich! Lucky Vegas Casino Slot Machine Game,,"483,946",5.0 M,4.38,0.4%,0.7%,Free,com.zynga.hititrich,GAME_CASINO
+19,20.0,Wizard of Oz Free Slots Casino,,"456,723",5.0 M,4.55,0.9%,1.8%,Free,com.zynga.wizardofoz,GAME_CASINO

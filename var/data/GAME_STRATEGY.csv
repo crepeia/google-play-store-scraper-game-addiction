@@ -1,61 +1,21 @@
 ,rank,title,icon,↓Total ratings,Installs,Average rating,Growth (30 days),Growth (60 days),Price,app_id,category
-0,1.0,"
-Clash of Clans
-",,"52,096,768",500.0 M,4.5,0.9%,1.2%,Free,com.supercell.clashofclans,GAME_STRATEGY
-1,2.0,"
-Clash Royale
-",,"28,445,256",100.0 M,4.24,0.6%,1.1%,Free,com.supercell.clashroyale,GAME_STRATEGY
-2,3.0,"
-Boom Beach
-",,"5,931,876",50.0 M,4.47,0.3%,0.5%,Free,com.supercell.boombeach,GAME_STRATEGY
-3,4.0,"
-Lords Mobile: Kingdom Wars
-",,"4,981,273",100.0 M,4.14,1.3%,2.3%,Free,com.igg.android.lordsmobile,GAME_STRATEGY
-4,5.0,"
-Castle Clash: Guild Royale
-",,"4,750,076",100.0 M,4.12,0.4%,0.6%,Free,com.igg.castleclash,GAME_STRATEGY
-5,6.0,"
-Plants vs. Zombies FREE
-",,"4,709,784",100.0 M,4.35,0.8%,1.3%,Free,com.ea.game.pvzfree_row,GAME_STRATEGY
-6,7.0,"
-Grow Empire: Rome
-",,"3,126,732",10.0 M,4.57,2.7%,4.9%,Free,com.empire.grow.rome,GAME_STRATEGY
-7,8.0,"
-Monster Legends
-",,"3,032,044",50.0 M,4.56,0.9%,1.6%,Free,es.socialpoint.MonsterLegends,GAME_STRATEGY
-8,9.0,"
-Bid Wars - Storage Auctions and Pawn Shop Tycoon
-",,"2,976,075",10.0 M,4.44,0.7%,1.4%,Free,br.com.tapps.bidwars,GAME_STRATEGY
-9,10.0,"
-Clash of Kings : New Crescent Civilization
-",,"2,305,070",50.0 M,4.13,0.1%,0.2%,Free,com.hcg.cok.gp,GAME_STRATEGY
-10,11.0,"
-Vlogger Go Viral - Tuber Game
-",,"1,799,002",10.0 M,4.59,2.1%,4.1%,Free,br.com.tapps.vloggergoviral,GAME_STRATEGY
-11,12.0,"
-Clash of Lords 2: Guild Castle
-",,"1,710,465",10.0 M,4.27,0.0%,0.0%,Free,com.igg.clashoflords2,GAME_STRATEGY
-12,13.0,"
-Castle Clash: Схватка Гильдий
-",,"1,657,932",10.0 M,4.34,0.2%,0.3%,Free,com.igg.castleclash_ru,GAME_STRATEGY
-13,14.0,"
-Game of War - Fire Age
-",,"1,496,897",50.0 M,3.6,0.0%,0.0%,Free,com.machinezone.gow,GAME_STRATEGY
-14,15.0,"
-Megapolis: city building simulator. Urban strategy
-",,"1,418,815",50.0 M,4.46,0.3%,0.6%,Free,com.socialquantum.acityint,GAME_STRATEGY
-15,16.0,"
-Last Shelter: Survival
-",,"1,349,418",10.0 M,4.43,4.1%,5.4%,Free,com.more.dayzsurvival.gp,GAME_STRATEGY
-16,17.0,"
-Stick War: Legacy
-",,"1,348,520",50.0 M,4.44,3.2%,5.6%,Free,com.maxgames.stickwarlegacy,GAME_STRATEGY
-17,18.0,"
-Empire: Four Kingdoms | Medieval Strategy MMO
-",,"1,310,237",50.0 M,4.17,0.1%,0.1%,Free,air.com.goodgamestudios.empirefourkingdoms,GAME_STRATEGY
-18,19.0,"
-King of Thieves
-",,"1,233,767",10.0 M,4.5,0.4%,0.6%,Free,com.zeptolab.thieves.google,GAME_STRATEGY
-19,20.0,"
-Throne Rush
-",,"1,215,383",10.0 M,4.46,0.1%,0.2%,Free,com.progrestar.bft,GAME_STRATEGY
+0,1.0,Clash of Clans,,"53,561,581",500.0 M,4.48,0.4%,0.8%,Free,com.supercell.clashofclans,GAME_STRATEGY
+1,2.0,Clash Royale,,"29,511,782",100.0 M,4.22,0.7%,1.5%,Free,com.supercell.clashroyale,GAME_STRATEGY
+2,3.0,Boom Beach,,"5,999,825",50.0 M,4.45,0.1%,0.4%,Free,com.supercell.boombeach,GAME_STRATEGY
+3,4.0,Lords Mobile: Kingdom Wars,,"5,510,618",100.0 M,4.22,2.7%,5.2%,Free,com.igg.android.lordsmobile,GAME_STRATEGY
+4,5.0,Plants vs. Zombies FREE,,"4,901,292",100.0 M,4.3,0.6%,1.3%,Free,com.ea.game.pvzfree_row,GAME_STRATEGY
+5,6.0,Castle Clash: Guild Royale,,"4,859,926",100.0 M,4.1,0.5%,0.9%,Free,com.igg.castleclash,GAME_STRATEGY
+6,7.0,Grow Empire: Rome,,"3,432,855",10.0 M,4.55,1.3%,2.7%,Free,com.empire.grow.rome,GAME_STRATEGY
+7,8.0,World of Tanks Blitz MMO,,"3,275,798",100.0 M,4.33,1.2%,2.5%,Free,net.wargaming.wot.blitz,GAME_STRATEGY
+8,9.0,Monster Legends,,"3,178,817",50.0 M,4.52,0.7%,1.5%,Free,es.socialpoint.MonsterLegends,GAME_STRATEGY
+9,10.0,Bid Wars - Storage Auctions and Pawn Shop Tycoon,,"3,050,236",10.0 M,4.41,0.4%,0.7%,Free,br.com.tapps.bidwars,GAME_STRATEGY
+10,11.0,Clash of Kings : Newly Presented Knight System,,"2,311,842",50.0 M,4.1,0.0%,0.0%,Free,com.hcg.cok.gp,GAME_STRATEGY
+11,12.0,Vlogger Go Viral - Tuber Game,,"1,980,135",10.0 M,4.51,1.3%,2.8%,Free,br.com.tapps.vloggergoviral,GAME_STRATEGY
+12,13.0,Clash of Lords 2: Guild Castle,,"1,710,010",10.0 M,4.26,0.0%,0.0%,Free,com.igg.clashoflords2,GAME_STRATEGY
+13,14.0,Castle Clash: Схватка Гильдий,,"1,680,353",10.0 M,4.34,0.5%,0.9%,Free,com.igg.castleclash_ru,GAME_STRATEGY
+14,15.0,Stick War: Legacy,,"1,597,226",100.0 M,4.48,2.9%,5.8%,Free,com.maxgames.stickwarlegacy,GAME_STRATEGY
+15,16.0,Game of War - Fire Age,,"1,494,941",50.0 M,3.6,0.0%,0.1%,Free,com.machinezone.gow,GAME_STRATEGY
+16,17.0,Last Shelter: Survival,,"1,458,005",10.0 M,4.34,0.7%,1.6%,Free,com.more.dayzsurvival.gp,GAME_STRATEGY
+17,18.0,Megapolis: city building simulator. Urban strategy,,"1,431,890",50.0 M,4.42,0.1%,0.3%,Free,com.socialquantum.acityint,GAME_STRATEGY
+18,19.0,Rise of Kingdoms: Lost Crusade,,"1,404,188",10.0 M,4.29,3.1%,6.5%,Free,com.lilithgame.roc.gp,GAME_STRATEGY
+19,20.0,Empire: Four Kingdoms | Medieval Strategy MMO,,"1,313,555",50.0 M,4.14,0.0%,0.1%,Free,air.com.goodgamestudios.empirefourkingdoms,GAME_STRATEGY

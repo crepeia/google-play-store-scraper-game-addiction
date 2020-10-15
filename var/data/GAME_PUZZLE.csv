@@ -1,61 +1,21 @@
 ,rank,title,icon,↓Total ratings,Installs,Average rating,Growth (30 days),Growth (60 days),Price,app_id,category
-0,1.0,"
-Fishdom
-",,"3,741,658",100.0 M,4.02,5.5%,7.4%,Free,com.playrix.fishdomdd.gplay,GAME_PUZZLE
-1,2.0,"
-Toon Blast
-",,"2,748,190",50.0 M,4.65,2.0%,3.8%,Free,net.peakgames.toonblast,GAME_PUZZLE
-2,3.0,"
-Brain Out – Can you pass it?
-",,"2,732,151",100.0 M,4.41,19.4%,45.2%,Free,com.mind.quiz.brain.out,GAME_PUZZLE
-3,4.0,"
-Toy Blast
-",,"2,639,213",50.0 M,4.64,1.2%,2.1%,Free,net.peakgames.amy,GAME_PUZZLE
-4,5.0,"
-Paperama
-",,"2,506,167",10.0 M,4.6,0.0%,0.0%,Free,com.fdgentertainment.paperama,GAME_PUZZLE
-5,6.0,"
-Cut the Rope FULL FREE
-",,"2,451,000",100.0 M,4.59,0.6%,1.1%,Free,com.zeptolab.ctr.ads,GAME_PUZZLE
-6,7.0,"
-Bubble Witch 3 Saga
-",,"2,326,043",50.0 M,4.65,1.2%,2.3%,Free,com.king.bubblewitch3,GAME_PUZZLE
-7,8.0,"
-Cut the Rope 2
-",,"2,265,641",100.0 M,4.63,0.1%,0.2%,Free,com.zeptolab.ctr2.f2p.google,GAME_PUZZLE
-8,9.0,"
-Where's My Water? 2
-",,"2,065,386",100.0 M,4.35,0.3%,0.5%,Free,com.disney.wheresmywater2_goo,GAME_PUZZLE
-9,10.0,"
-Empires & Puzzles: Epic Match 3
-",,"1,774,860",10.0 M,4.44,2.5%,4.9%,Free,com.smallgiantgames.empires,GAME_PUZZLE
-10,11.0,"
-Disney Frozen Free Fall - Play Frozen Puzzle Games
-",,"1,680,616",50.0 M,4.55,0.3%,0.6%,Free,com.disney.frozensaga_goo,GAME_PUZZLE
-11,12.0,"
-Pixel Art: Color by Number
-",,"1,664,838",50.0 M,4.51,2.1%,3.2%,Free,com.europosit.pixelcoloring,GAME_PUZZLE
-12,13.0,"
-Roll the Ball® - slide puzzle
-",,"1,536,857",100.0 M,4.29,0.2%,0.3%,Free,com.bitmango.rolltheballunrollme,GAME_PUZZLE
-13,14.0,"
-Candy Crush Jelly Saga
-",,"1,513,157",100.0 M,4.54,0.8%,1.7%,Free,com.king.candycrushjellysaga,GAME_PUZZLE
-14,15.0,"
-Matchington Mansion
-",,"1,460,888",50.0 M,4.46,3.8%,6.6%,Free,com.matchington.mansion,GAME_PUZZLE
-15,16.0,"
-Flow Free
-",,"1,378,587",100.0 M,4.46,0.4%,0.7%,Free,com.bigduckgames.flow,GAME_PUZZLE
-16,17.0,"
-ضربة معلم - لعبة الغاز مسلية
-",,"1,370,037",10.0 M,4.61,3.3%,5.8%,Free,com.zytoona.onehit,GAME_PUZZLE
-17,18.0,"
-2048 Number puzzle game
-",,"1,364,487",10.0 M,4.31,0.0%,0.0%,Free,com.estoty.game2048,GAME_PUZZLE
-18,19.0,"
-Sudoku.com - Free Sudoku Puzzles
-",,"1,351,621",10.0 M,4.58,2.4%,4.6%,Free,com.easybrain.sudoku.android,GAME_PUZZLE
-19,20.0,"
-Block Puzzle Jewel
-",,"1,268,147",100.0 M,4.28,3.5%,6.1%,Free,com.differencetenderwhite.skirt,GAME_PUZZLE
+0,1.0,Fishdom,,"4,307,949",100.0 M,4.23,1.0%,3.2%,Free,com.playrix.fishdomdd.gplay,GAME_PUZZLE
+1,2.0,Brain Out – Can you pass it?,,"3,680,038",100.0 M,4.35,2.7%,5.7%,Free,com.mind.quiz.brain.out,GAME_PUZZLE
+2,3.0,Toon Blast,,"2,946,474",50.0 M,4.6,1.0%,2.1%,Free,net.peakgames.toonblast,GAME_PUZZLE
+3,4.0,Toy Blast,,"2,769,437",50.0 M,4.62,0.8%,1.7%,Free,net.peakgames.amy,GAME_PUZZLE
+4,5.0,Cut the Rope FULL FREE,,"2,507,561",100.0 M,4.53,0.3%,0.6%,Free,com.zeptolab.ctr.ads,GAME_PUZZLE
+5,6.0,Bubble Witch 3 Saga,,"2,416,063",50.0 M,4.61,0.6%,1.2%,Free,com.king.bubblewitch3,GAME_PUZZLE
+6,7.0,Cut the Rope 2,,"2,282,706",100.0 M,4.61,0.1%,0.3%,Free,com.zeptolab.ctr2.f2p.google,GAME_PUZZLE
+7,8.0,Where's My Water? 2,,"2,097,195",100.0 M,4.27,0.2%,0.5%,Free,com.disney.wheresmywater2_goo,GAME_PUZZLE
+8,9.0,Empires & Puzzles: Epic Match 3,,"1,937,106",10.0 M,4.29,1.2%,2.7%,Free,com.smallgiantgames.empires,GAME_PUZZLE
+9,10.0,Pixel Art: Color by Number,,"1,828,139",50.0 M,4.46,1.4%,3.1%,Free,com.europosit.pixelcoloring,GAME_PUZZLE
+10,11.0,Matchington Mansion,,"1,726,366",50.0 M,4.3,3.4%,6.8%,Free,com.matchington.mansion,GAME_PUZZLE
+11,12.0,Disney Frozen Free Fall - Play Frozen Puzzle Games,,"1,694,092",50.0 M,4.54,0.1%,0.2%,Free,com.disney.frozensaga_goo,GAME_PUZZLE
+12,13.0,Candy Crush Jelly Saga,,"1,566,793",100.0 M,4.52,0.7%,1.3%,Free,com.king.candycrushjellysaga,GAME_PUZZLE
+13,14.0,Roll the Ball® - slide puzzle,,"1,549,072",100.0 M,4.24,0.1%,0.3%,Free,com.bitmango.rolltheballunrollme,GAME_PUZZLE
+14,15.0,ضربة معلم - لعبة الغاز مسلية,,"1,509,213",10.0 M,4.59,1.2%,2.6%,Free,com.zytoona.onehit,GAME_PUZZLE
+15,16.0,Sudoku.com - Free Sudoku,,"1,505,907",10.0 M,4.56,2.1%,4.3%,Free,com.easybrain.sudoku.android,GAME_PUZZLE
+16,17.0,Block Puzzle Jewel,,"1,409,610",100.0 M,4.26,1.5%,3.2%,Free,com.differencetenderwhite.skirt,GAME_PUZZLE
+17,18.0,Flow Free,,"1,407,136",100.0 M,4.38,0.4%,0.7%,Free,com.bigduckgames.flow,GAME_PUZZLE
+18,19.0,2048 Number puzzle game,,"1,362,629",10.0 M,4.31,0.2%,0.5%,Free,com.estoty.game2048,GAME_PUZZLE
+19,20.0,Sand Balls - Puzzle Game,,"1,289,275",100.0 M,4.15,1.4%,3.5%,Free,com.water.balls,GAME_PUZZLE

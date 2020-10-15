@@ -1,61 +1,21 @@
 ,rank,title,icon,↓Total ratings,Installs,Average rating,Growth (30 days),Growth (60 days),Price,app_id,category
-0,1.0,"
-Ludo King™
-",,"4,420,583",100.0 M,4.28,20.0%,22.7%,Free,com.ludo.king,GAME_BOARD
-1,2.0,"
-101 Yüzbir Okey Plus
-",,"2,329,186",10.0 M,4.3,0.9%,1.3%,Free,net.peakgames.Yuzbir,GAME_BOARD
-2,3.0,"
-Happy Color™ – Color by Number
-",,"1,784,250",50.0 M,4.63,6.8%,10.9%,Free,com.pixel.art.coloring.color.number,GAME_BOARD
-3,4.0,"
-모두의마블
-",,"1,597,853",10.0 M,3.16,0.0%,0.1%,Free,com.cjenm.ModooMarbleKakao,GAME_BOARD
-4,5.0,"
-Chess Free
-",,"1,510,172",50.0 M,4.52,0.5%,0.8%,Free,uk.co.aifactory.chessfree,GAME_BOARD
-5,6.0,"
-Okey Plus
-",,"1,222,889",10.0 M,4.45,0.3%,0.4%,Free,net.peakgames.OkeyPlus,GAME_BOARD
-6,7.0,"
-Chess
-",,"1,096,839",100.0 M,4.37,4.5%,7.2%,Free,com.jetstartgames.chess,GAME_BOARD
-7,8.0,"
-Parchisi STAR Online
-",,"993,005",10.0 M,4.59,44.6%,47.8%,Free,com.superking.parchisi.star,GAME_BOARD
-8,9.0,"
-Colorfy: Adult Coloring Book - Free Style Color
-",,"846,653",10.0 M,4.08,0.3%,0.4%,Free,com.fungamesforfree.colorfy,GAME_BOARD
-9,10.0,"
-Checkers
-",,"766,596",50.0 M,4.45,3.0%,5.5%,Free,pl.lukok.draughts,GAME_BOARD
-10,11.0,"
-Dominoes
-",,"645,759",10.0 M,4.7,7.2%,12.0%,Free,com.LoopGames.Domino,GAME_BOARD
-11,12.0,"
-Bingo Blitz™️ - Bingo Games
-",,"633,514",10.0 M,4.55,1.3%,2.7%,Free,air.com.buffalo_studios.newflashbingo,GAME_BOARD
-12,13.0,"
-Okey
-",,"547,149",10.0 M,4.62,0.6%,1.3%,Free,com.ahoygames.okey,GAME_BOARD
-13,14.0,"
-Çanak Okey Plus
-",,"539,207",10.0 M,4.42,1.1%,1.6%,Free,net.peakgames.mobile.canakokey.android,GAME_BOARD
-14,15.0,"
-Mahjong Titan
-",,"536,564",10.0 M,4.62,0.8%,1.5%,Free,com.kristanix.android.mahjongsolitairetitan,GAME_BOARD
-15,16.0,"
-Backgammon Plus
-",,"457,226",5.0 M,3.74,0.4%,0.5%,Free,net.peakgames.mobile.android.tavlaplus.android,GAME_BOARD
-16,17.0,"
-BINGO!
-",,"444,067",10.0 M,4.51,0.8%,1.3%,Free,com.twelvegigs.heaven.bingo,GAME_BOARD
-17,18.0,"
-Landlord Tycoon - Money Investing Idle with GPS
-",,"426,048",5.0 M,4.53,1.1%,2.6%,Free,com.landlordgame.tycoon,GAME_BOARD
-18,19.0,"
-Checkers
-",,"416,227",50.0 M,4.33,4.1%,6.5%,Free,com.dimcoms.checkers,GAME_BOARD
-19,20.0,"
-1LINE – One Line with One Touch
-",,"401,801",10.0 M,4.34,1.7%,3.2%,Free,com.one1line.onetouch.onestroke.dotgame,GAME_BOARD
+0,1.0,Ludo King™,,"6,308,897",100.0 M,4.26,2.2%,6.5%,Free,com.ludo.king,GAME_BOARD
+1,2.0,101 Yüzbir Okey Plus,,"2,380,833",10.0 M,4.2,0.2%,0.4%,Free,net.peakgames.Yuzbir,GAME_BOARD
+2,3.0,Happy Color™ – Color by Number,,"2,143,468",100.0 M,4.6,2.8%,5.7%,Free,com.pixel.art.coloring.color.number,GAME_BOARD
+3,4.0,Parchisi STAR Online,,"1,831,040",50.0 M,4.36,3.9%,8.9%,Free,com.superking.parchisi.star,GAME_BOARD
+4,5.0,모두의마블,,"1,598,120",10.0 M,3.16,0.0%,0.0%,Free,com.cjenm.ModooMarbleKakao,GAME_BOARD
+5,6.0,Chess Free,,"1,542,113",50.0 M,4.47,0.3%,0.6%,Free,uk.co.aifactory.chessfree,GAME_BOARD
+6,7.0,Chess,,"1,299,978",100.0 M,4.28,2.4%,4.8%,Free,com.jetstartgames.chess,GAME_BOARD
+7,8.0,Okey Plus,,"1,233,609",10.0 M,4.39,0.1%,0.2%,Free,net.peakgames.OkeyPlus,GAME_BOARD
+8,9.0,Ludo Club - Fun Dice Game,,"1,041,960",50.0 M,4.24,5.5%,12.6%,Free,com.moonfrog.ludo.club,GAME_BOARD
+9,10.0,Paint By Number - Coloring Book & Color by Number,,"988,665",100.0 M,4.53,3.8%,8.1%,Free,paint.by.number.pixel.art.coloring.drawing.puzzle,GAME_BOARD
+10,11.0,Colorfy: Adult Coloring Book - Free Style Color,,"854,856",10.0 M,4.04,0.1%,0.3%,Free,com.fungamesforfree.colorfy,GAME_BOARD
+11,12.0,Checkers,,"843,090",50.0 M,4.44,1.5%,3.0%,Free,pl.lukok.draughts,GAME_BOARD
+12,13.0,Dominoes,,"807,741",50.0 M,4.63,2.8%,6.1%,Free,com.LoopGames.Domino,GAME_BOARD
+13,14.0,Bingo Blitz™️ - Bingo Games,,"684,818",10.0 M,4.5,1.4%,3.2%,Free,air.com.buffalo_studios.newflashbingo,GAME_BOARD
+14,15.0,Bingo Bash: Live Bingo Games & Free Slots By GSN,,"624,399",10.0 M,4.45,0.4%,0.9%,Free,air.com.bitrhymes.bingo,GAME_BOARD
+15,16.0,Bingo Showdown: Free Bingo Games – Bingo Live Game,,"592,023",5.0 M,4.64,0.1%,0.3%,Free,air.com.spicerackmedia.bingoshowdown,GAME_BOARD
+16,17.0,Higgs Domino Island-Gaple QiuQiu Poker Game Online,,"571,534",10.0 M,4.22,8.3%,16.5%,Free,com.neptune.domino,GAME_BOARD
+17,18.0,Mahjong Titan,,"562,865",10.0 M,4.61,1.0%,2.0%,Free,com.kristanix.android.mahjongsolitairetitan,GAME_BOARD
+18,19.0,Okey,,"557,559",10.0 M,4.58,0.2%,0.4%,Free,com.ahoygames.okey,GAME_BOARD
+19,20.0,Çanak Okey Plus,,"555,403",10.0 M,4.35,0.4%,0.8%,Free,net.peakgames.mobile.canakokey.android,GAME_BOARD

@@ -1,61 +1,21 @@
 ,rank,title,icon,↓Total ratings,Installs,Average rating,Growth (30 days),Growth (60 days),Price,app_id,category
-0,1.0,"
-Dragon City
-",,"7,485,834",100.0 M,4.57,0.8%,1.4%,Free,es.socialpoint.DragonCity,GAME_SIMULATION
-1,2.0,"
-The Sims FreePlay
-",,"5,313,585",100.0 M,3.93,0.3%,0.6%,Free,com.ea.games.simsfreeplay_row,GAME_SIMULATION
-2,3.0,"
-SimCity BuildIt
-",,"4,945,875",50.0 M,4.41,0.7%,1.2%,Free,com.ea.game.simcitymobile_row,GAME_SIMULATION
-3,4.0,"
-Fallout Shelter
-",,"3,220,281",10.0 M,4.6,0.8%,1.4%,Free,com.bethsoft.falloutshelter,GAME_SIMULATION
-4,5.0,"
-Plague Inc.
-",,"3,219,813",50.0 M,4.3,1.8%,4.1%,Free,com.miniclip.plagueinc,GAME_SIMULATION
-5,6.0,"
-Episode - Choose Your Story
-",,"2,834,589",50.0 M,4.18,2.4%,3.4%,Free,com.episodeinteractive.android.catalog,GAME_SIMULATION
-6,7.0,"
-Idle Miner Tycoon - Mine Manager Simulator
-",,"2,595,824",50.0 M,4.68,4.1%,7.9%,Free,com.fluffyfairygames.idleminertycoon,GAME_SIMULATION
-7,8.0,"
-Dragon Mania Legends - Animal Fantasy
-",,"2,430,318",50.0 M,4.55,0.8%,1.9%,Free,com.gameloft.android.ANMP.GloftDOHM,GAME_SIMULATION
-8,9.0,"
-Merge Plane - Click & Idle Tycoon
-",,"2,287,815",50.0 M,4.54,1.0%,1.9%,Free,com.brokenreality.planemerger.android,GAME_SIMULATION
-9,10.0,"
-The Tribez: Build a Village
-",,"2,171,037",10.0 M,4.38,1.5%,2.5%,Free,com.gameinsight.tribez,GAME_SIMULATION
-10,11.0,"
-Block Craft 3D: Building Simulator Games For Free
-",,"1,595,116",100.0 M,4.12,2.4%,4.0%,Free,com.fungames.blockcraft,GAME_SIMULATION
-11,12.0,"
-AdVenture Capitalist
-",,"1,529,697",10.0 M,4.53,0.2%,0.5%,Free,com.kongregate.mobile.adventurecapitalist.google,GAME_SIMULATION
-12,13.0,"
-Bus Simulator: Original
-",,"1,472,955",50.0 M,4.18,0.6%,0.8%,Free,com.ovilex.bussimulator2015,GAME_SIMULATION
-13,14.0,"
-Dragons: Rise of Berk
-",,"1,447,780",10.0 M,4.45,0.4%,0.7%,Free,com.ludia.dragons,GAME_SIMULATION
-14,15.0,"
-Jurassic World™: The Game
-",,"1,429,666",50.0 M,4.18,1.1%,2.1%,Free,com.ludia.jurassicworld,GAME_SIMULATION
-15,16.0,"
-LINE BROWN FARM
-",,"1,316,959",10.0 M,4.3,0.7%,1.1%,Free,com.linecorp.LGFARM,GAME_SIMULATION
-16,17.0,"
-Choices: Stories You Play
-",,"1,279,139",10.0 M,4.45,1.7%,2.8%,Free,com.pixelberrystudios.choices,GAME_SIMULATION
-17,18.0,"
-Bus Simulator Indonesia
-",,"1,195,349",10.0 M,4.38,7.9%,11.8%,Free,com.maleo.bussimulatorid,GAME_SIMULATION
-18,19.0,"
-Cash, Inc. Money Clicker Game & Business Adventure
-",,"1,141,480",10.0 M,4.65,0.9%,1.7%,Free,com.alegrium.cong2,GAME_SIMULATION
-19,20.0,"
-The Sims™ Mobile
-",,"1,089,983",50.0 M,3.95,3.6%,5.4%,Free,com.ea.gp.simsmobile,GAME_SIMULATION
+0,1.0,Dragon City,,"7,825,711",100.0 M,4.55,0.9%,1.7%,Free,es.socialpoint.DragonCity,GAME_SIMULATION
+1,2.0,The Sims FreePlay,,"5,423,057",100.0 M,3.95,0.3%,0.6%,Free,com.ea.games.simsfreeplay_row,GAME_SIMULATION
+2,3.0,SimCity BuildIt,,"5,086,101",100.0 M,4.35,0.4%,0.8%,Free,com.ea.game.simcitymobile_row,GAME_SIMULATION
+3,4.0,Fallout Shelter,,"3,320,449",10.0 M,4.57,0.4%,0.9%,Free,com.bethsoft.falloutshelter,GAME_SIMULATION
+4,5.0,Plague Inc.,,"3,294,047",50.0 M,4.3,0.6%,0.9%,Free,com.miniclip.plagueinc,GAME_SIMULATION
+5,6.0,Episode - Choose Your Story,,"3,073,495",100.0 M,4.15,1.6%,3.0%,Free,com.episodeinteractive.android.catalog,GAME_SIMULATION
+6,7.0,Idle Miner Tycoon - Mine Manager Simulator,,"2,905,334",50.0 M,4.62,1.9%,3.6%,Free,com.fluffyfairygames.idleminertycoon,GAME_SIMULATION
+7,8.0,Dragon Mania Legends,,"2,597,530",50.0 M,4.46,0.8%,1.8%,Free,com.gameloft.android.ANMP.GloftDOHM,GAME_SIMULATION
+8,9.0,The Tribez: Build a Village,,"2,210,229",10.0 M,4.39,0.1%,0.2%,Free,com.gameinsight.tribez,GAME_SIMULATION
+9,10.0,Block Craft 3D: Building Simulator Games For Free,,"1,833,319",100.0 M,4.13,2.0%,4.3%,Free,com.fungames.blockcraft,GAME_SIMULATION
+10,11.0,AdVenture Capitalist,,"1,547,890",10.0 M,4.51,0.2%,0.4%,Free,com.kongregate.mobile.adventurecapitalist.google,GAME_SIMULATION
+11,12.0,Jurassic World™: The Game,,"1,528,205",50.0 M,4.17,1.2%,2.0%,Free,com.ludia.jurassicworld,GAME_SIMULATION
+12,13.0,Bus Simulator Indonesia,,"1,482,467",10.0 M,4.4,3.9%,7.1%,Free,com.maleo.bussimulatorid,GAME_SIMULATION
+13,14.0,Bus Simulator: Original,,"1,481,291",50.0 M,4.12,0.1%,0.1%,Free,com.ovilex.bussimulator2015,GAME_SIMULATION
+14,15.0,Dragons: Rise of Berk,,"1,479,791",50.0 M,4.4,0.3%,0.6%,Free,com.ludia.dragons,GAME_SIMULATION
+15,16.0,Choices: Stories You Play,,"1,346,190",10.0 M,4.39,0.6%,1.4%,Free,com.pixelberrystudios.choices,GAME_SIMULATION
+16,17.0,LINE BROWN FARM,,"1,342,425",10.0 M,4.33,0.2%,0.4%,Free,com.linecorp.LGFARM,GAME_SIMULATION
+17,18.0,The Sims™ Mobile,,"1,236,677",50.0 M,3.97,1.4%,2.9%,Free,com.ea.gp.simsmobile,GAME_SIMULATION
+18,19.0,"Cash, Inc. Money Clicker Game & Business Adventure",,"1,169,479",10.0 M,4.62,0.3%,0.6%,Free,com.alegrium.cong2,GAME_SIMULATION
+19,20.0,Fishing Clash: Fish Catching Games,,"1,133,870",10.0 M,4.56,2.5%,5.4%,Free,com.tensquaregames.letsfish2,GAME_SIMULATION

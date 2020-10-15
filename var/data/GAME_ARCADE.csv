@@ -1,61 +1,21 @@
 ,rank,title,icon,↓Total ratings,Installs,Average rating,Growth (30 days),Growth (60 days),Price,app_id,category
-0,1.0,"
-Subway Surfers
-",,"32,549,664",1000.0 M,4.46,0.9%,1.6%,Free,com.kiloo.subwaysurf,GAME_ARCADE
-1,2.0,"
-Hungry Shark Evolution
-",,"6,725,478",100.0 M,4.46,0.7%,1.3%,Free,com.fgol.HungrySharkEvolution,GAME_ARCADE
-2,3.0,"
-Geometry Dash Lite
-",,"6,607,872",100.0 M,4.38,0.3%,0.6%,Free,com.robtopx.geometryjumplite,GAME_ARCADE
-3,4.0,"
-Angry Birds Classic
-",,"5,687,771",100.0 M,4.44,0.0%,0.0%,Free,com.rovio.angrybirds,GAME_ARCADE
-4,5.0,"
-Zombie Tsunami
-",,"5,516,450",100.0 M,4.42,0.6%,0.9%,Free,net.mobigame.zombietsunami,GAME_ARCADE
-5,6.0,"
-Fruit Ninja®
-",,"5,240,317",100.0 M,4.38,0.2%,0.3%,Free,com.halfbrick.fruitninjafree,GAME_ARCADE
-6,7.0,"
-Jetpack Joyride
-",,"4,837,108",100.0 M,4.52,0.1%,0.2%,Free,com.halfbrick.jetpackjoyride,GAME_ARCADE
-7,8.0,"
-Sonic Dash
-",,"4,739,143",100.0 M,4.61,1.9%,3.9%,Free,com.sega.sonicdash,GAME_ARCADE
-8,9.0,"
-Smash Hit
-",,"4,450,782",100.0 M,4.53,0.3%,0.5%,Free,com.mediocre.smashhit,GAME_ARCADE
-9,10.0,"
-Temple Run
-",,"4,395,651",500.0 M,4.13,0.7%,1.0%,Free,com.imangi.templerun,GAME_ARCADE
-10,11.0,"
-Cooking Fever
-",,"4,101,319",100.0 M,4.37,1.3%,2.3%,Free,com.nordcurrent.canteenhd,GAME_ARCADE
-11,12.0,"
-Vector
-",,"3,258,520",100.0 M,4.45,0.3%,0.5%,Free,com.nekki.vector,GAME_ARCADE
-12,13.0,"
-Minecraft
-",,"3,197,394",10.0 M,4.47,2.0%,3.3%,$6.99,com.mojang.minecraftpe,GAME_ARCADE
-13,14.0,"
-DragonFlight
-",,"2,874,638",10.0 M,4.35,0.0%,0.1%,Free,com.NextFloor.DragonFlightKakao,GAME_ARCADE
-14,15.0,"
-Granny
-",,"2,689,338",100.0 M,4.21,1.6%,2.7%,Free,com.dvloper.granny,GAME_ARCADE
-15,16.0,"
-Red Ball 4
-",,"1,951,549",100.0 M,4.4,1.8%,3.0%,Free,com.FDGEntertainment.redball4.gp,GAME_ARCADE
-16,17.0,"
-Angry Birds Transformers
-",,"1,828,946",50.0 M,4.6,0.4%,0.6%,Free,com.rovio.angrybirdstransformers,GAME_ARCADE
-17,18.0,"
-Glow Hockey
-",,"1,762,167",100.0 M,4.23,0.3%,0.4%,Free,com.natenai.glowhockey,GAME_ARCADE
-18,19.0,"
-Angry Birds Seasons
-",,"1,681,744",100.0 M,4.52,0.0%,0.0%,Free,com.rovio.angrybirdsseasons,GAME_ARCADE
-19,20.0,"
-Geometry Dash Meltdown
-",,"1,672,188",50.0 M,4.53,0.2%,0.5%,Free,com.robtopx.geometrydashmeltdown,GAME_ARCADE
+0,1.0,Subway Surfers,,"34,052,715",1000.0 M,4.44,0.8%,1.8%,Free,com.kiloo.subwaysurf,GAME_ARCADE
+1,2.0,Hungry Shark Evolution,,"6,956,844",100.0 M,4.38,0.4%,0.9%,Free,com.fgol.HungrySharkEvolution,GAME_ARCADE
+2,3.0,Geometry Dash Lite,,"6,730,939",100.0 M,4.32,0.3%,0.7%,Free,com.robtopx.geometryjumplite,GAME_ARCADE
+3,4.0,Zombie Tsunami,,"5,689,415",100.0 M,4.35,0.5%,1.0%,Free,net.mobigame.zombietsunami,GAME_ARCADE
+4,5.0,Angry Birds Classic,,"5,687,231",100.0 M,4.44,0.0%,0.0%,Free,com.rovio.angrybirds,GAME_ARCADE
+5,6.0,Fruit Ninja®,,"5,299,937",100.0 M,4.31,0.2%,0.4%,Free,com.halfbrick.fruitninjafree,GAME_ARCADE
+6,7.0,Sonic Dash - Endless Running & Racing Game,,"5,059,287",100.0 M,4.58,0.9%,2.2%,Free,com.sega.sonicdash,GAME_ARCADE
+7,8.0,Jetpack Joyride,,"4,872,998",100.0 M,4.48,0.2%,0.3%,Free,com.halfbrick.jetpackjoyride,GAME_ARCADE
+8,9.0,Temple Run,,"4,545,133",500.0 M,4.06,0.6%,1.2%,Free,com.imangi.templerun,GAME_ARCADE
+9,10.0,Smash Hit,,"4,513,297",100.0 M,4.48,0.2%,0.4%,Free,com.mediocre.smashhit,GAME_ARCADE
+10,11.0,Cooking Fever,,"4,316,532",100.0 M,4.32,0.7%,1.4%,Free,com.nordcurrent.canteenhd,GAME_ARCADE
+11,12.0,Minecraft,,"3,654,429",10.0 M,4.58,1.8%,4.2%,$6.99,com.mojang.minecraftpe,GAME_ARCADE
+12,13.0,Vector,,"3,314,285",100.0 M,4.36,0.3%,0.6%,Free,com.nekki.vector,GAME_ARCADE
+13,14.0,Granny,,"2,921,182",100.0 M,4.23,1.3%,2.7%,Free,com.dvloper.granny,GAME_ARCADE
+14,15.0,DragonFlight,,"2,874,583",10.0 M,4.35,0.0%,0.0%,Free,com.NextFloor.DragonFlightKakao,GAME_ARCADE
+15,16.0,Red Ball 4,,"2,109,115",100.0 M,4.37,1.0%,2.3%,Free,com.FDGEntertainment.redball4.gp,GAME_ARCADE
+16,17.0,Angry Birds Transformers,,"1,862,489",50.0 M,4.57,0.3%,0.6%,Free,com.rovio.angrybirdstransformers,GAME_ARCADE
+17,18.0,Cooking Madness - A Chef's Restaurant Games,,"1,829,440",50.0 M,4.58,1.9%,3.8%,Free,com.biglime.cookingmadness,GAME_ARCADE
+18,19.0,Galaxy Attack: Alien Shooter,,"1,781,747",100.0 M,4.5,1.2%,2.7%,Free,com.alien.shooter.galaxy.attack,GAME_ARCADE
+19,20.0,Glow Hockey,,"1,778,811",100.0 M,4.19,0.1%,0.3%,Free,com.natenai.glowhockey,GAME_ARCADE

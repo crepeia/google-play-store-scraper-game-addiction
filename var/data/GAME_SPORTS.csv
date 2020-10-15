@@ -1,61 +1,21 @@
 ,rank,title,icon,↓Total ratings,Installs,Average rating,Growth (30 days),Growth (60 days),Price,app_id,category
-0,1.0,"
-8 Ball Pool
-",,"18,545,122",500.0 M,4.46,2.0%,3.6%,Free,com.miniclip.eightballpool,GAME_SPORTS
-1,2.0,"
-Dream League Soccer
-",,"13,201,858",100.0 M,4.44,0.4%,0.7%,Free,com.firsttouchgames.dls3,GAME_SPORTS
-2,3.0,"
-FIFA Soccer
-",,"6,394,783",100.0 M,3.87,1.3%,2.6%,Free,com.ea.gp.fifamobile,GAME_SPORTS
-3,4.0,"
-Score! Hero
-",,"6,310,837",100.0 M,4.26,0.8%,1.4%,Free,com.firsttouchgames.story,GAME_SPORTS
-4,5.0,"
-eFootball PES 2020
-",,"4,433,763",50.0 M,4.29,3.7%,9.1%,Free,jp.konami.pesam,GAME_SPORTS
-5,6.0,"
-Top Eleven 2020 -  Be a soccer manager
-",,"3,888,516",50.0 M,4.35,0.3%,0.7%,Free,eu.nordeus.topeleven.android,GAME_SPORTS
-6,7.0,"
-Bowling King
-",,"2,866,422",10.0 M,4.59,0.5%,0.8%,Free,com.pnixgames.bowlingking,GAME_SPORTS
-7,8.0,"
-EA SPORTS UFC®
-",,"2,824,669",50.0 M,4.38,0.8%,1.4%,Free,com.ea.game.easportsufc_row,GAME_SPORTS
-8,9.0,"
-World Cricket Championship 2 - WCC2
-",,"2,664,217",50.0 M,4.33,1.7%,2.7%,Free,com.nextwave.wcc2,GAME_SPORTS
-9,10.0,"
-NBA LIVE Mobile Basketball
-",,"2,213,537",50.0 M,4.11,0.8%,2.2%,Free,com.ea.gp.nbamobile,GAME_SPORTS
-10,11.0,"
-New Star Soccer
-",,"2,176,328",10.0 M,4.64,0.6%,1.1%,Free,com.newstargames.newstarsoccer,GAME_SPORTS
-11,12.0,"
-Soccer Stars
-",,"2,102,125",50.0 M,4.26,0.9%,1.5%,Free,com.miniclip.soccerstars,GAME_SPORTS
-12,13.0,"
-Pooking - Billiards City
-",,"1,903,616",100.0 M,4.45,6.6%,10.3%,Free,com.billiards.city.pool.nation.club,GAME_SPORTS
-13,14.0,"
-Golf Clash
-",,"1,855,212",10.0 M,4.33,1.1%,2.2%,Free,com.playdemic.golf.android,GAME_SPORTS
-14,15.0,"
-Online Soccer Manager (OSM) - 2020
-",,"1,771,661",10.0 M,4.48,1.4%,2.3%,Free,com.gamebasics.osm,GAME_SPORTS
-15,16.0,"
-Carrom Pool: Disc Game
-",,"1,698,719",100.0 M,4.33,17.3%,30.9%,Free,com.miniclip.carrom,GAME_SPORTS
-16,17.0,"
-Madden NFL Mobile Football
-",,"1,639,377",10.0 M,4.12,0.4%,0.7%,Free,com.ea.game.maddenmobile15_row,GAME_SPORTS
-17,18.0,"
-Head Soccer
-",,"1,619,639",50.0 M,4.29,0.1%,0.1%,Free,com.dnddream.headsoccer.android,GAME_SPORTS
-18,19.0,"
-Real Basketball
-",,"1,607,262",10.0 M,4.43,0.0%,0.1%,Free,net.mobilecraft.realbasketball,GAME_SPORTS
-19,20.0,"
-Fishing Hook
-",,"1,536,438",50.0 M,4.36,1.3%,1.9%,Free,com.mobirix.fishinghook,GAME_SPORTS
+0,1.0,8 Ball Pool,,"19,674,669",500.0 M,4.42,1.0%,1.7%,Free,com.miniclip.eightballpool,GAME_SPORTS
+1,2.0,Dream League Soccer,,"13,319,011",100.0 M,4.45,0.1%,0.2%,Free,com.firsttouchgames.dls3,GAME_SPORTS
+2,3.0,FIFA Soccer,,"6,698,167",100.0 M,3.88,0.9%,1.7%,Free,com.ea.gp.fifamobile,GAME_SPORTS
+3,4.0,Score! Hero,,"6,550,586",100.0 M,4.21,0.7%,1.3%,Free,com.firsttouchgames.story,GAME_SPORTS
+4,5.0,eFootball PES 2020,,"5,175,256",50.0 M,4.27,2.8%,5.3%,Free,jp.konami.pesam,GAME_SPORTS
+5,6.0,Top Eleven 2020 -  Be a soccer manager,,"4,016,615",50.0 M,4.34,0.7%,1.1%,Free,eu.nordeus.topeleven.android,GAME_SPORTS
+6,7.0,EA SPORTS UFC®,,"2,907,119",50.0 M,4.35,0.4%,0.9%,Free,com.ea.game.easportsufc_row,GAME_SPORTS
+7,8.0,Bowling King,,"2,899,544",10.0 M,4.58,0.1%,0.3%,Free,com.pnixgames.bowlingking,GAME_SPORTS
+8,9.0,World Cricket Championship 2 - WCC2,,"2,789,606",50.0 M,4.31,0.7%,1.3%,Free,com.nextwave.wcc2,GAME_SPORTS
+9,10.0,Carrom Pool: Disc Game,,"2,504,145",100.0 M,4.24,4.8%,9.9%,Free,com.miniclip.carrom,GAME_SPORTS
+10,11.0,NBA LIVE Mobile Basketball,,"2,303,576",50.0 M,4.15,0.5%,1.1%,Free,com.ea.gp.nbamobile,GAME_SPORTS
+11,12.0,Pooking - Billiards City,,"2,234,459",100.0 M,4.4,2.3%,4.8%,Free,com.billiards.city.pool.nation.club,GAME_SPORTS
+12,13.0,New Star Soccer,,"2,222,993",10.0 M,4.62,0.4%,0.8%,Free,com.newstargames.newstarsoccer,GAME_SPORTS
+13,14.0,Soccer Stars,,"2,153,977",50.0 M,4.23,0.3%,0.6%,Free,com.miniclip.soccerstars,GAME_SPORTS
+14,15.0,Golf Clash,,"1,930,576",10.0 M,4.3,0.4%,1.1%,Free,com.playdemic.golf.android,GAME_SPORTS
+15,16.0,Online Soccer Manager (OSM) - 20/21,,"1,864,550",10.0 M,4.45,0.9%,1.7%,Free,com.gamebasics.osm,GAME_SPORTS
+16,17.0,World Soccer League,,"1,681,643",100.0 M,4.17,1.8%,3.5%,Free,com.touchtao.soccerkinggoogle,GAME_SPORTS
+17,18.0,zzSUNSET Last Season MM,,"1,649,696",10.0 M,4.11,0.0%,0.0%,Free,com.ea.game.maddenmobile15_row,GAME_SPORTS
+18,19.0,Head Soccer,,"1,625,299",50.0 M,4.26,0.1%,0.1%,Free,com.dnddream.headsoccer.android,GAME_SPORTS
+19,20.0,Real Basketball,,"1,606,017",10.0 M,4.42,0.0%,0.0%,Free,net.mobilecraft.realbasketball,GAME_SPORTS

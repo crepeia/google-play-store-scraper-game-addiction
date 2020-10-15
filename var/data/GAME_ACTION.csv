@@ -1,61 +1,21 @@
 ,rank,title,icon,↓Total ratings,Installs,Average rating,Growth (30 days),Growth (60 days),Price,app_id,category
-0,1.0,"
-Garena Free Fire: Wonderland
-",,"46,526,127",500.0 M,4.33,6.2%,12.0%,Free,com.dts.freefireth,GAME_ACTION
-1,2.0,"
-PUBG MOBILE
-",,"26,718,429",100.0 M,4.33,2.8%,6.8%,Free,com.tencent.ig,GAME_ACTION
-2,3.0,"
-Mobile Legends: Bang Bang
-",,"18,039,486",100.0 M,4.13,4.1%,6.7%,Free,com.mobile.legends,GAME_ACTION
-3,4.0,"
-Shadow Fight 2
-",,"12,859,928",100.0 M,4.61,0.7%,1.4%,Free,com.nekki.shadowfight,GAME_ACTION
-4,5.0,"
-Sniper 3D: Fun Offline Gun Shooting Games Free
-",,"12,588,985",100.0 M,4.48,2.7%,4.3%,Free,com.fungames.sniper3d,GAME_ACTION
-5,6.0,"
-Brawl Stars
-",,"10,603,141",100.0 M,4.33,8.3%,13.3%,Free,com.supercell.brawlstars,GAME_ACTION
-6,7.0,"
-Temple Run 2
-",,"9,083,262",500.0 M,4.3,0.6%,0.9%,Free,com.imangi.templerun2,GAME_ACTION
-7,8.0,"
-Call of Duty®: Mobile
-",,"8,161,321",100.0 M,4.53,8.2%,12.7%,Free,com.activision.callofduty.shooter,GAME_ACTION
-8,9.0,"
-slither.io
-",,"6,076,682",100.0 M,4.1,0.9%,1.6%,Free,air.com.hypah.io.slither,GAME_ACTION
-9,10.0,"
-Gangstar Vegas: World of Crime
-",,"5,752,478",50.0 M,4.34,0.9%,1.4%,Free,com.gameloft.android.ANMP.GloftGGHM,GAME_ACTION
-10,11.0,"
-Pixel Gun 3D: FPS Shooter & Battle Royale
-",,"5,387,933",50.0 M,4.21,0.6%,1.0%,Free,com.pixel.gun3d,GAME_ACTION
-11,12.0,"
-Crossy Road
-",,"4,401,560",100.0 M,4.58,0.1%,0.3%,Free,com.yodo1.crossyroad,GAME_ACTION
-12,13.0,"
-Helix Jump
-",,"4,201,335",100.0 M,4.03,0.1%,0.2%,Free,com.h8games.helixjump,GAME_ACTION
-13,14.0,"
-Banana Kong
-",,"4,129,033",100.0 M,4.58,0.7%,1.3%,Free,com.fdgentertainment.bananakong,GAME_ACTION
-14,15.0,"
-PUBG MOBILE LITE
-",,"4,073,331",100.0 M,4.25,16.8%,28.6%,Free,com.tencent.iglite,GAME_ACTION
-15,16.0,"
-Bowmasters
-",,"4,055,762",100.0 M,4.53,3.0%,5.7%,Free,com.miniclip.bowmasters,GAME_ACTION
-16,17.0,"
-Agar.io
-",,"3,985,550",100.0 M,4.03,0.2%,0.4%,Free,com.miniclip.agar.io,GAME_ACTION
-17,18.0,"
-DEER HUNTER CLASSIC
-",,"3,977,061",100.0 M,4.41,0.0%,0.1%,Free,com.glu.deerhunt2,GAME_ACTION
-18,19.0,"
-War Robots. 6v6 Tactical Multiplayer Battles
-",,"3,951,853",50.0 M,4.29,0.3%,0.7%,Free,com.pixonic.wwr,GAME_ACTION
-19,20.0,"
-Talking Tom Gold Run
-",,"3,887,316",100.0 M,4.37,1.6%,2.7%,Free,com.outfit7.talkingtomgoldrun,GAME_ACTION
+0,1.0,Garena Free Fire: BOOYAH Day,,"65,267,584",500.0 M,4.13,6.3%,10.1%,Free,com.dts.freefireth,GAME_ACTION
+1,2.0,PUBG MOBILE - NEW ERA,,"32,846,902",100.0 M,4.16,2.5%,5.0%,Free,com.tencent.ig,GAME_ACTION
+2,3.0,Mobile Legends: Bang Bang,,"22,488,812",100.0 M,4.01,3.0%,6.2%,Free,com.mobile.legends,GAME_ACTION
+3,4.0,Brawl Stars,,"13,890,416",100.0 M,4.28,4.2%,6.9%,Free,com.supercell.brawlstars,GAME_ACTION
+4,5.0,Sniper 3D: Fun Free Online FPS Shooting Game,,"13,543,642",100.0 M,4.38,0.9%,1.8%,Free,com.fungames.sniper3d,GAME_ACTION
+5,6.0,Shadow Fight 2,,"13,357,198",100.0 M,4.57,0.6%,1.3%,Free,com.nekki.shadowfight,GAME_ACTION
+6,7.0,Call of Duty®: Mobile,,"10,860,766",100.0 M,4.47,4.3%,9.8%,Free,com.activision.callofduty.shooter,GAME_ACTION
+7,8.0,Temple Run 2,,"9,347,307",500.0 M,4.22,0.6%,1.1%,Free,com.imangi.templerun2,GAME_ACTION
+8,9.0,PUBG MOBILE LITE,,"6,662,230",100.0 M,4.23,2.6%,10.2%,Free,com.tencent.iglite,GAME_ACTION
+9,10.0,slither.io,,"6,292,628",100.0 M,4.06,0.5%,1.0%,Free,air.com.hypah.io.slither,GAME_ACTION
+10,11.0,Gangstar Vegas: World of Crime,,"5,982,307",50.0 M,4.29,0.7%,1.4%,Free,com.gameloft.android.ANMP.GloftGGHM,GAME_ACTION
+11,12.0,Pixel Gun 3D: FPS Shooter & Battle Royale,,"5,525,851",50.0 M,4.15,0.4%,0.9%,Free,com.pixel.gun3d,GAME_ACTION
+12,13.0,Bowmasters,,"4,618,190",100.0 M,4.51,1.9%,4.3%,Free,com.miniclip.bowmasters,GAME_ACTION
+13,14.0,Crossy Road,,"4,429,778",100.0 M,4.55,0.1%,0.2%,Free,com.yodo1.crossyroad,GAME_ACTION
+14,15.0,Banana Kong,,"4,291,324",100.0 M,4.56,0.6%,1.3%,Free,com.fdgentertainment.bananakong,GAME_ACTION
+15,16.0,Helix Jump,,"4,237,963",100.0 M,4.06,0.1%,0.3%,Free,com.h8games.helixjump,GAME_ACTION
+16,17.0,Talking Tom Gold Run,,"4,230,669",100.0 M,4.37,1.3%,2.8%,Free,com.outfit7.talkingtomgoldrun,GAME_ACTION
+17,18.0,War Robots Multiplayer Battles,,"4,099,159",50.0 M,4.15,0.7%,1.3%,Free,com.pixonic.wwr,GAME_ACTION
+18,19.0,Garena Liên Quân Mobile,,"4,052,671",10.0 M,3.8,1.5%,3.0%,Free,com.garena.game.kgvn,GAME_ACTION
+19,20.0,Agar.io,,"4,031,157",100.0 M,3.98,0.2%,0.3%,Free,com.miniclip.agar.io,GAME_ACTION
