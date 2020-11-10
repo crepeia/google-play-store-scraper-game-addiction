@@ -6,7 +6,6 @@ __pycache__/
 # Logs
 logs
 *.log
-*.csv
 
 # Jupyter Notebook
 .ipynb_checkpoints
